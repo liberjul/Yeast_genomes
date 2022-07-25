@@ -1,7 +1,7 @@
-import glob, json
+import json
 
 with open("../info/accession_metadata.json", "r") as ifile:
-    metadata_dict = json.dump(ifile)
+    metadata_dict = json.load(ifile)
 
 strain_set = set()
 for acc in metadata_dict:
@@ -11,7 +11,7 @@ strain_list = list(strain_set)
 
 regions = ["SSU", "ITS1", "5_8S", "ITS2", "LSU", "RPB1", "RPB2", "TEF1", "CYTB"]
 for reg in regions:
-    with open(F"../aligned_seqs/yeast_seqs.{reg}.fasta", "r") as ifile:
+    with open(F"../aligned_seqs/yeast_seqs.{reg}.mafft.clipkit.fasta", "r") as ifile:
         seq_dict = {}
         min_length = 9999
         max_length = 0
@@ -43,12 +43,12 @@ for reg in regions:
         raise ValueError(F"Aligned sequences for {reg} are not all equal length!")
     seq_dict_strain = {}
     for acc in seq_dict:
-        seq_dict_strain[metadata_dict[acc]] = [acc, seq_dict[acc]]
+        seq_dict_strain[" ".join(metadata_dict[acc])] = [acc, seq_dict[acc]]
     buffer = ""
     for i in strain_list:
         if i in seq_dict_strain:
-            buffer = F"{buffer}>{seq_dict_strain[acc][0]}|{i}|{reg}\n{seq_dict_strain[acc][1]}\n"
+            buffer = F"{buffer}>{i}|{reg}\n{seq_dict_strain[i][1]}\n"
         else:
-            buffer = F"{buffer}>{seq_dict_strain[acc][0]}|{i}|{reg}\n{'-'*max_length}\n"
-    with open(F"../aligned_seqs/yeast_seqs.{reg}.ordered.fasta", "w") as ofile:
+            buffer = F"{buffer}>{i}|{reg}\n{'-'*max_length}\n"
+    with open(F"../aligned_seqs/yeast_seqs.{reg}.mafft.ordered.fasta", "w") as ofile:
         ofile.write(buffer)

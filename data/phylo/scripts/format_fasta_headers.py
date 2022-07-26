@@ -5,6 +5,7 @@ with open("../info/accession_metadata.json", "r") as ifile:
 
 strain_set = set()
 for acc in metadata_dict:
+    metadata_dict[acc][2] = metadata_dict[acc][2].strip(" ")
     strain_set.add(" ".join(metadata_dict[acc]))
 
 strain_list = list(strain_set)

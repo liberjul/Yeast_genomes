@@ -14,8 +14,9 @@ cd $SLURM_SUBMIT_DIR
 
 MEM=16 # 16gb
 CPU=8
-i=../data/raw_data/JL201_raw_R1_001.fastq.qz
-BASE=$(basename ${i%.fastq.gz})
+FWD=../data/raw_data/jl201_S181_R1_001.fastq.gz
+REV=../data/raw_data/jl201_S181_R2_001.fastq.gz
+BASE=JL201_S181
 READSDIR=../data/raw_data
 TRIMREAD=../data/filt_trimmed
 
@@ -24,8 +25,8 @@ echo $READSDIR
 conda activate aaftf
 
 AAFTF trim --method bbduk --memory $MEM -c $CPU \
- --left $READSDIR/${BASE}.fastq.gz \
+ --left $FWD --right $REV\
   -o $TRIMREAD/${BASE}
-source deactivate
+conda deactivate
 
 scontrol show job $SLURM_JOB_ID

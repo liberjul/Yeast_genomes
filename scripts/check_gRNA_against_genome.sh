@@ -5,3 +5,6 @@ python /mnt/c/Users/julia/Anaconda3/Lib/site-packages/code_utilities/check_grnas
 
 # python C:\Users\julia\Anaconda3\Lib\site-packages\code_utilities\check_grnas_v_db_usearch.py -d ..\data\assembly\JL201\scaffolds.fasta -t ..\data\knockout\JL201_URA3.fasta -g ..\data\knockout\JL201_URA3_gRNAs.fasta -o ..\data\knockout\JL201_URA3_gRNA_check_res -u C:\Users\julia\bin\usearch11.0.667_win32.exe
 # sh ./check_gRNA_against_genome.sh JL201 ../data/knockout/JL201_URA3.fasta ../data/knockout/JL201_URA3_gRNAs.fasta ../data/knockout/JL201_URA3_gRNA_check_res.out
+
+# python C:\Users\julia\Anaconda3\Lib\site-packages\code_utilities\check_grnas_v_db_usearch.py -d ..\data\assembly\JL221\scaffolds.fasta -t ..\data\knockout\JL221_URA3.fasta -g ..\data\knockout\JL221_URA3_gRNAs.fasta -o ..\data\knockout\JL221_URA3_gRNA_check_res -u C:\Users\julia\bin\usearch11.0.667_win32.exe
+# sh ./check_gRNA_against_genome.sh JL221 ../data/knockout/JL221_URA3.fasta ../data/knockout/JL221_URA3_gRNAs.fasta ../data/knockout/JL221_URA3_gRNA_check_res.out

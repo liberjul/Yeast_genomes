@@ -17,11 +17,15 @@ with open(args.hmm, "r") as ifile:
     while line != "" and line[0] != "#":
         # count += 1
         spl = line.strip().split(" ")
-        spl = [x for x  in spl if x is not ""]
+        spl = [x for x  in spl if x != ""]
         header, start, stop, e = spl[0], spl[6], spl[7], spl[12]
+        # print([header, start, stop, e])
         if float(e) < min_e:
             min_e = float(e)
-        hit_dict[header] = [start, stop, e]
+        if header in hit_dict:
+            hit_dict[header].append([start, stop, e])
+        else:
+            hit_dict[header] = [[start, stop, e]]
         line = ifile.readline()
 buffer = ""
 newline = ""
@@ -36,22 +40,23 @@ with open(args.fasta, "r") as ifile:
             while line != "" and line[0] != ">":
                 seq += line.strip()
                 line = ifile.readline()
-            start, stop, e = hit_dict[header]
-            if args.top_hit_only:
-                if float(e) == min_e:
+            for i in hit_dict[header]:
+                start, stop, e = i
+                if args.top_hit_only:
+                    if float(e) <= min_e:
+                        print(header, " Length: ", len(seq))
+                        if int(start) > int(stop):
+                            stop_new = start
+                            start = stop
+                            stop = stop_new
+                        buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
+                else:
                     print(header, " Length: ", len(seq))
                     if int(start) > int(stop):
                         stop_new = start
                         start = stop
                         stop = stop_new
                     buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
-            else:
-                print(header, " Length: ", len(seq))
-                if int(start) > int(stop):
-                    stop_new = start
-                    start = stop
-                    stop = stop_new
-                buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
         else:
             line = ifile.readline()
 

@@ -1,0 +1,20 @@
+# target name                       accession  query name            accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#               ------------------- ----------  -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_19_length_292500_cov_21.858120 -          yeast_seqs.TEF1.mafft -               15    1409  288037  289730  288024  289733  292500    +           0 1456.3  27.9  -
+NODE_37_length_170706_cov_21.996560 -          yeast_seqs.TEF1.mafft -               13     626   64078   64668   64065   64688  170706    +     1.2e-46  158.1   5.0  -
+NODE_58_length_80675_cov_21.988089  -          yeast_seqs.TEF1.mafft -               21     602   43017   43690   42997   43713   80675    +     1.4e-22   78.3   8.6  -
+NODE_53_length_111697_cov_21.616529 -          yeast_seqs.TEF1.mafft -              212     500   52355   52088   52376   52066  111697    -       3e-11   40.8   2.7  -
+NODE_37_length_170706_cov_21.996560 -          yeast_seqs.TEF1.mafft -             1186    1342   65386   65541   65347   65574  170706    +     1.6e-07   28.5   0.0  -
+NODE_19_length_292500_cov_21.858120 -          yeast_seqs.TEF1.mafft -             1310    1380  290169  290239  290149  290260  292500    +      0.0027   14.5   4.3  -
+NODE_38_length_166686_cov_22.291791 -          yeast_seqs.TEF1.mafft -             1163    1282  161090  160865  161114  160843  166686    -        0.25    7.9   2.1  -
+NODE_53_length_111697_cov_21.616529 -          yeast_seqs.TEF1.mafft -              752     952   51878   51611   51899   51591  111697    -           1    5.9   6.0  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/TEF1.hmm
+# Target file:     ../data/assembly/JL201/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_JL201/TEF1_hmm.out --cpu 24 ../data/phylo/hmms/TEF1.hmm ../data/assembly/JL201/scaffolds.fasta 
+# Current dir:     /mnt/c/Users/julia/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Aug 16 14:12:22 2022
+# [ok]

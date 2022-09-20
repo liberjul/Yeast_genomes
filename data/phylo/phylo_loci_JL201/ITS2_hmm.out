@@ -1,0 +1,15 @@
+# target name                        accession  query name            accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#                ------------------- ----------  -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_101_length_6643_cov_1305.952635 -          yeast_seqs.ITS2.mafft -                2     183     741     546     742     526    6643    -     5.2e-22   81.0   2.2  -
+NODE_34_length_192794_cov_21.966308  -          yeast_seqs.ITS2.mafft -                2     181   18674   18865   18673   18886  192794    +     3.8e-15   58.7   1.0  -
+NODE_9_length_506918_cov_21.888148   -          yeast_seqs.ITS2.mafft -               48     147    7011    6906    7014    6881  506918    -         2.6   10.5   0.3  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/ITS2.hmm
+# Target file:     ../data/assembly/JL201/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/assembly/JL201/phylo_loci/ITS2_hmm.out --cpu 24 ../data/phylo/hmms/ITS2.hmm ../data/assembly/JL201/scaffolds.fasta 
+# Current dir:     /mnt/ufs18/home-026/liberjul/He_Lab/Yeast_genomes/scripts
+# Date:            Tue Jul 26 13:31:37 2022
+# [ok]

@@ -1,0 +1,25 @@
+# target name                        accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#                ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_101_length_6643_cov_1305.952635 -          yeast_seqs.SSU.mafft -                1    1786    2923    1042    2923    1042    6643    -           0 1859.2  14.2  -
+NODE_80_length_25458_cov_21.856389   -          yeast_seqs.SSU.mafft -               59     456   20125   20467   20105   20479   25458    +     2.3e-39  134.2   0.7  -
+NODE_613_length_158_cov_1141.012346  -          yeast_seqs.SSU.mafft -              895    1051     158       2     158       1     158    -     1.1e-38  131.9   6.5  -
+NODE_667_length_154_cov_18.987013    -          yeast_seqs.SSU.mafft -              896    1047       1     152       1     154     154    +     9.7e-37  125.5   5.7  -
+NODE_681_length_153_cov_49.894737    -          yeast_seqs.SSU.mafft -              898    1049       1     152       1     153     153    +       4e-36  123.4   7.0  -
+NODE_694_length_153_cov_16.355263    -          yeast_seqs.SSU.mafft -              898    1049       1     152       1     153     153    +       4e-36  123.4   6.2  -
+NODE_664_length_154_cov_21.662338    -          yeast_seqs.SSU.mafft -              896    1048       1     153       1     154     154    +     3.7e-35  120.3   5.2  -
+NODE_709_length_152_cov_13.373333    -          yeast_seqs.SSU.mafft -              898    1047       1     150       1     152     152    +     3.7e-35  120.3   6.0  -
+NODE_1706_length_79_cov_36.000000    -          yeast_seqs.SSU.mafft -              896     972      79       3      79       1      79    -     1.3e-15   55.5   3.2  -
+NODE_1839_length_78_cov_45.000000    -          yeast_seqs.SSU.mafft -              895     971       1      77       1      78      78    +     1.3e-15   55.4   2.8  -
+NODE_96_length_8260_cov_7930.108029  -          yeast_seqs.SSU.mafft -              870    1203    7643    7323    7662    7248    8260    -     1.7e-14   51.8   4.7  -
+NODE_1700_length_79_cov_81.500000    -          yeast_seqs.SSU.mafft -              976    1051       3      78       1      79      79    +     2.3e-11   41.4   4.2  -
+NODE_1847_length_78_cov_37.000000    -          yeast_seqs.SSU.mafft -              975    1049       3      77       1      78      78    +     6.3e-11   39.9   4.0  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/SSU.hmm
+# Target file:     ../data/assembly/JL201/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/assembly/JL201/phylo_loci/SSU_hmm.out --cpu 24 ../data/phylo/hmms/SSU.hmm ../data/assembly/JL201/scaffolds.fasta 
+# Current dir:     /mnt/ufs18/home-026/liberjul/He_Lab/Yeast_genomes/scripts
+# Date:            Tue Jul 26 13:31:36 2022
+# [ok]

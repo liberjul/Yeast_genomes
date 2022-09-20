@@ -1,0 +1,13 @@
+# target name                       accession  query name            accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#               ------------------- ----------  -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_86_length_25113_cov_412.072895 -          yeast_seqs.CYTB.mafft -               79     530   20289   20740   20263   20741   25113    +    1.2e-145  485.3  18.3  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/CYTB.hmm
+# Target file:     ../data/assembly/JL221/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_JL221/CYTB_hmm.out --cpu 24 ../data/phylo/hmms/CYTB.hmm ../data/assembly/JL221/scaffolds.fasta 
+# Current dir:     /mnt/c/Users/julia/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Aug 16 14:12:57 2022
+# [ok]

@@ -1,0 +1,23 @@
+# target name                       accession  query name            accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#               ------------------- ----------  -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_5_length_579142_cov_17.814679  -          yeast_seqs.TEF1.mafft -               15    1411  498364  500183  498351  500184  579142    +           0 1432.4   9.1  -
+NODE_17_length_330281_cov_16.515548 -          yeast_seqs.TEF1.mafft -               14     635  266192  265594  266206  265580  330281    -     7.2e-40  135.8   3.9  -
+NODE_48_length_136291_cov_18.152858 -          yeast_seqs.TEF1.mafft -               32     498   40300   39792   40320   39772  136291    -     2.8e-25   87.4   2.2  -
+NODE_5_length_579142_cov_17.814679  -          yeast_seqs.TEF1.mafft -              847     938  500623  500714  500608  500717  579142    +       1e-23   82.2   1.8  -
+NODE_16_length_341355_cov_18.556025 -          yeast_seqs.TEF1.mafft -              212     545   61601   61184   61650   61172  341355    -       2e-12   44.8   0.7  -
+NODE_17_length_330281_cov_16.515548 -          yeast_seqs.TEF1.mafft -             1186    1349  264882  264720  264903  264698  330281    -     1.5e-05   22.0   0.2  -
+NODE_16_length_341355_cov_18.556025 -          yeast_seqs.TEF1.mafft -              741     952   61133   60857   61148   60836  341355    -      0.0054   13.6   1.1  -
+NODE_4_length_600302_cov_17.865002  -          yeast_seqs.TEF1.mafft -              895     926  383635  383604  383642  383588  600302    -        0.18    8.5   0.3  -
+NODE_5_length_579142_cov_17.814679  -          yeast_seqs.TEF1.mafft -              746     779  500728  500761  500716  500781  579142    +           2    5.0   6.7  -
+NODE_1_length_1050783_cov_17.408258 -          yeast_seqs.TEF1.mafft -              898     932  107451  107417  107463  107397 1050783    -         8.7    2.9   2.2  -
+NODE_1_length_1050783_cov_17.408258 -          yeast_seqs.TEF1.mafft -             1130    1255  107167  107038  107188  106987 1050783    -         9.7    2.8   0.4  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/TEF1.hmm
+# Target file:     ../data/assembly/JL221/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_JL221/TEF1_hmm.out --cpu 24 ../data/phylo/hmms/TEF1.hmm ../data/assembly/JL221/scaffolds.fasta 
+# Current dir:     /mnt/c/Users/julia/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Aug 16 14:12:53 2022
+# [ok]

@@ -1,0 +1,20 @@
+# target name                       accession  query name            accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#               ------------------- ----------  -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_1_length_875821_cov_21.833104  -          yeast_seqs.RPB2.mafft -                8    1621   18298   16618   18305   16617  875821    -           0 1456.2  11.7  -
+NODE_1_length_875821_cov_21.833104  -          yeast_seqs.RPB2.mafft -               89    1260   16991   18179   16970   18199  875821    +     1.7e-34  117.9   7.0  -
+NODE_33_length_199566_cov_22.427608 -          yeast_seqs.RPB2.mafft -             1139    1483  127250  126912  127270  126887  199566    -     2.1e-33  114.3   2.4  -
+NODE_2_length_740275_cov_22.295892  -          yeast_seqs.RPB2.mafft -             1194    1524  247587  247260  247593  247238  740275    -     3.6e-16   57.2   2.3  -
+NODE_33_length_199566_cov_22.427608 -          yeast_seqs.RPB2.mafft -              488     571  127849  127766  127869  127763  199566    -     9.5e-12   42.5   0.0  -
+NODE_33_length_199566_cov_22.427608 -          yeast_seqs.RPB2.mafft -               23     386  128358  127951  128375  127946  199566    -     3.2e-08   30.8   1.0  -
+NODE_33_length_199566_cov_22.427608 -          yeast_seqs.RPB2.mafft -              710    1002  127618  127298  127626  127281  199566    -       1e-07   29.2   0.4  -
+NODE_19_length_292500_cov_21.858120 -          yeast_seqs.RPB2.mafft -              903    1006  244315  244415  244292  244418  292500    +        0.28    7.8   5.3  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/RPB2.hmm
+# Target file:     ../data/assembly/JL201/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_JL201/RPB2_hmm.out --cpu 24 ../data/phylo/hmms/RPB2.hmm ../data/assembly/JL201/scaffolds.fasta 
+# Current dir:     /mnt/c/Users/julia/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Aug 16 14:12:13 2022
+# [ok]

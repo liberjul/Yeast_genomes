@@ -1,0 +1,26 @@
+# target name                       accession  query name            accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#               ------------------- ----------  -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_8_length_556410_cov_17.113978  -          yeast_seqs.RPB1.mafft -                6     789  301142  302127  301137  302149  556410    +    1.7e-180  601.7   2.4  -
+NODE_65_length_82600_cov_15.386183  -          yeast_seqs.RPB1.mafft -                4      57   49165   49218   49162   49239   82600    +     1.1e-05   23.4   2.4  -
+NODE_12_length_398021_cov_17.321515 -          yeast_seqs.RPB1.mafft -               20      60  111226  111266  111224  111286  398021    +        0.31    8.6   0.8  -
+NODE_1_length_1050783_cov_17.408258 -          yeast_seqs.RPB1.mafft -              263     330  873141  872997  873165  872991 1050783    -        0.87    7.1   5.3  -
+NODE_11_length_411773_cov_16.569515 -          yeast_seqs.RPB1.mafft -              221     293  325431  325502  325427  325536  411773    +         1.5    6.4   2.2  -
+NODE_39_length_161005_cov_15.985472 -          yeast_seqs.RPB1.mafft -              151     289   27203   27353   27183   27378  161005    +         1.5    6.3   5.9  -
+NODE_32_length_191807_cov_17.847489 -          yeast_seqs.RPB1.mafft -              253     335  110547  110604  110517  110619  191807    +         1.6    6.3   5.4  -
+NODE_4_length_600302_cov_17.865002  -          yeast_seqs.RPB1.mafft -              358     414  327662  327737  327659  327779  600302    +         1.8    6.1   2.5  -
+NODE_31_length_200215_cov_16.132923 -          yeast_seqs.RPB1.mafft -              389     488  121329  121428  121309  121448  200215    +         2.7    5.5   4.3  -
+NODE_9_length_458853_cov_18.120702  -          yeast_seqs.RPB1.mafft -              388     477  381374  381291  381394  381276  458853    -           5    4.6   2.7  -
+NODE_47_length_137583_cov_17.788809 -          yeast_seqs.RPB1.mafft -              248     323   91159   91264   91139   91266  137583    +         5.2    4.6   5.9  -
+NODE_52_length_124317_cov_16.836977 -          yeast_seqs.RPB1.mafft -              213     288   56109   56030   56119   56009  124317    -         6.1    4.3   2.9  -
+NODE_39_length_161005_cov_15.985472 -          yeast_seqs.RPB1.mafft -              356     446   51654   51737   51650   51751  161005    +         6.9    4.2   4.5  -
+NODE_49_length_127903_cov_17.492732 -          yeast_seqs.RPB1.mafft -              246     343   32876   32996   32734   33001  127903    +         7.1    4.1   5.9  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/RPB1.hmm
+# Target file:     ../data/assembly/JL221/scaffolds.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_JL221/RPB1_hmm.out --cpu 24 ../data/phylo/hmms/RPB1.hmm ../data/assembly/JL221/scaffolds.fasta 
+# Current dir:     /mnt/c/Users/julia/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Aug 16 14:12:33 2022
+# [ok]

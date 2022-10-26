@@ -23,8 +23,8 @@
   - B. Annotate scaffolds with [funannotate](https://github.com/nextgenusfs/funannotate/).
       - [03b_funannotate_prep_assembly_JL201.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03b_funannotate_prep_assembly_JL201.sb)
       - [03b_funannotate_prep_assembly_JL221.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03b_funannotate_prep_assembly_JL221.sb)
-      - [04b_funannotate_predict_JL201_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_predict_JL201_NP11_proteins.sb)
-      - [funannotate_predict_JL221_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_predict_JL221_NP11_proteins.sb)
+      - [04b_funannotate_predict_JL201_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04b_funannotate_predict_JL201_NP11_proteins.sb)
+      - [04b_funannotate_predict_JL221_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04b_funannotate_predict_JL221_NP11_proteins.sb)
   - C. Pull out loci for phylogenetic analysis using [HMMER](http://hmmer.org/).
       - [03c_hmmbuild.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03c_hmmbuild.sh)
       - [04c_hmmsearch_JL201.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04c_hmmsearch_JL201.sh)

@@ -31,6 +31,7 @@
       - [antiSMASH](https://fungismash.secondarymetabolites.org/#!/start) annotations run on webserver with [funannotate_remote.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_remote.sh)
       - [interproscan.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/interproscan.sh)
       - [funannotate_annotate_round1.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_annotate_round1.sh)
+      - [funannotate_annotate_round2.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_annotate_round2.sh)
   - C. Pull out loci for phylogenetic analysis using [HMMER](http://hmmer.org/).
       - [03c_hmmbuild.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03c_hmmbuild.sh)
       - [04c_hmmsearch_JL201.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04c_hmmsearch_JL201.sh)

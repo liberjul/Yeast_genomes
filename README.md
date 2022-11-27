@@ -28,6 +28,7 @@
       - [NetGPI](https://services.healthtech.dtu.dk/service.php?NetGPI-1.1) and [antiSMASH](https://fungismash.secondarymetabolites.org/#!/start) annotations run on webservers; the latter with [funannotate_remote.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_remote.sh)
       - [interproscan.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/interproscan.sh)
       - [funannotate_signalp.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_signalp.sh)
+      - [EffectorP.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/EffectorP.sh)
       - [funannotate_annotate_round1.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_annotate_round1.sh)
   - C. Pull out loci for phylogenetic analysis using [HMMER](http://hmmer.org/).
       - [03c_hmmbuild.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03c_hmmbuild.sh)

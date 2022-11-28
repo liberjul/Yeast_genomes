@@ -1,0 +1,26 @@
+GeneID	Name	Product
+FUN_000113		FAD/NAD(P)-binding domain-containing protein
+FUN_001220		RING-type domain-containing protein
+FUN_002102		Protein N-terminal amidase
+FUN_002822		protein kinase domain-containing protein
+FUN_003144		Dynein light chain
+FUN_003195		Fork head domain-containing protein
+FUN_003220		CAP domain-containing protein
+FUN_003484		RCC1 domain-containing protein
+FUN_003685		Peptidyl-prolyl cis-trans isomerase
+FUN_003886		SH3 domain-containing protein
+FUN_003914		Ubiquitin-conjugating enzyme E2
+FUN_004079		Protein N-terminal glutamine amidohydrolase
+FUN_004724		Target SNARE coiled-coil homology domain-containing protein
+FUN_004894		Cytochrome P450 monooxygenase
+FUN_005024		BTG domain-containing protein
+FUN_005366		DEP domain-containing protein
+FUN_005379		chitinase
+FUN_005680		C2H2-type domain-containing protein
+FUN_005729		DNA endonuclease activator Ctp1 domain-containing protein
+FUN_005832		OB-fold domain-containing protein
+FUN_006013		protein-tyrosine phosphatase
+FUN_006240		ATP adenylyltransferase domain-containing protein
+FUN_006431		ADP-ribosylation factor-like protein
+FUN_006605	nad4	NADH dehydrogenase subunit 4
+FUN_006626		hypothetical protein

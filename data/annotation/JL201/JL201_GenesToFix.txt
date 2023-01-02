@@ -1,0 +1,17 @@
+GeneID	Name	Product
+FUN_000076		BZIP domain-containing protein
+FUN_001824		FAD/NAD(P)-binding domain-containing protein
+FUN_002377		BTG domain-containing protein
+FUN_002804		KH domain-containing protein
+FUN_002964		PX domain-containing protein
+FUN_003243		Enoyl-CoA hydratase
+FUN_003493		chitinase
+FUN_003506		DEP domain-containing protein
+FUN_003585		protein kinase domain-containing protein
+FUN_004490		Ubiquitin-conjugating enzyme E2
+FUN_004590		hypothetical protein
+FUN_004608		C2H2-type domain-containing protein
+FUN_004656		Peptidyl-prolyl cis-trans isomerase
+FUN_004974		Ubiquitin-conjugating enzyme E2
+FUN_005071	lsm8	U6 snRNA-associated Sm-like protein LSm8
+FUN_006504		protein-tyrosine phosphatase

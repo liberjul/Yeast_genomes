@@ -23,8 +23,15 @@
   - B. Annotate scaffolds with [funannotate](https://github.com/nextgenusfs/funannotate/).
       - [03b_funannotate_prep_assembly_JL201.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03b_funannotate_prep_assembly_JL201.sb)
       - [03b_funannotate_prep_assembly_JL221.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03b_funannotate_prep_assembly_JL221.sb)
-      - [04b_funannotate_predict_JL201_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_predict_JL201_NP11_proteins.sb)
-      - [funannotate_predict_JL221_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_predict_JL221_NP11_proteins.sb)
+      - [04b_funannotate_predict_JL201_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04b_funannotate_predict_JL201_NP11_proteins.sb)
+      - [04b_funannotate_predict_JL221_NP11_proteins.sb](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04b_funannotate_predict_JL221_NP11_proteins.sb)
+      - [funannotate_signalp.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_signalp.sh)
+      - [NetGPI](https://services.healthtech.dtu.dk/service.php?NetGPI-1.1) annotations run on webserver with SignalP results
+      - [EffectorP.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/EffectorP.sh) annotations run on SignalP results
+      - [antiSMASH](https://fungismash.secondarymetabolites.org/#!/start) annotations run on webserver with [funannotate_remote.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_remote.sh)
+      - [interproscan.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/interproscan.sh)
+      - [funannotate_annotate_round1.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_annotate_round1.sh)
+      - [funannotate_annotate_round2.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/funannotate_annotate_round2.sh)
   - C. Pull out loci for phylogenetic analysis using [HMMER](http://hmmer.org/).
       - [03c_hmmbuild.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/03c_hmmbuild.sh)
       - [04c_hmmsearch_JL201.sh](https://github.com/liberjul/Yeast_genomes/blob/main/scripts/04c_hmmsearch_JL201.sh)

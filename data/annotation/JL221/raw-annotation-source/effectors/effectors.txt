@@ -1,0 +1,287 @@
+# Identifier	Cytoplasmic effector	Apoplastic effector	Non-effector	Prediction
+FUN_000027-T1 FUN_000027	Y (0.711)	-	-	Cytoplasmic effector
+FUN_000044-T1 FUN_000044	-	-	Y (0.914)	Non-effector
+FUN_000056-T1 FUN_000056	-	-	Y (0.885)	Non-effector
+FUN_000093-T1 FUN_000093	-	-	Y (0.931)	Non-effector
+FUN_000096-T1 FUN_000096	-	Y (0.771)	-	Apoplastic effector
+FUN_000135-T1 FUN_000135	-	Y (0.817)	-	Apoplastic effector
+FUN_000186-T1 FUN_000186	-	-	Y (0.625)	Non-effector
+FUN_000233-T1 FUN_000233	-	-	Y (0.508)	Non-effector
+FUN_000281-T1 FUN_000281	-	-	Y (0.675)	Non-effector
+FUN_000284-T1 FUN_000284	-	-	Y (0.927)	Non-effector
+FUN_000288-T1 FUN_000288	-	-	Y (0.848)	Non-effector
+FUN_000368-T1 FUN_000368	-	-	Y (0.924)	Non-effector
+FUN_000371-T1 FUN_000371	-	-	Y (0.794)	Non-effector
+FUN_000393-T1 FUN_000393	-	Y (0.503)	-	Apoplastic effector
+FUN_000394-T1 FUN_000394	-	Y (0.67)	-	Apoplastic effector
+FUN_000395-T1 FUN_000395	-	-	Y (0.506)	Non-effector
+FUN_000405-T1 FUN_000405	-	-	Y (0.795)	Non-effector
+FUN_000420-T1 FUN_000420	Y (0.541)	-	-	Cytoplasmic effector
+FUN_000451-T1 FUN_000451	-	-	Y (0.521)	Non-effector
+FUN_000478-T1 FUN_000478	-	-	Y (0.654)	Non-effector
+FUN_000483-T1 FUN_000483	-	Y (0.71)	-	Apoplastic effector
+FUN_000499-T1 FUN_000499	-	-	Y (0.828)	Non-effector
+FUN_000521-T1 FUN_000521	Y (0.633)	-	-	Cytoplasmic effector
+FUN_000534-T1 FUN_000534	-	-	Y (0.858)	Non-effector
+FUN_000542-T1 FUN_000542	-	-	Y (0.927)	Non-effector
+FUN_000546-T1 FUN_000546	-	-	Y (0.991)	Non-effector
+FUN_000580-T1 FUN_000580	-	-	Y (0.867)	Non-effector
+FUN_000582-T1 FUN_000582	Y (0.79)	-	-	Cytoplasmic effector
+FUN_000593-T1 FUN_000593	-	-	Y (0.988)	Non-effector
+FUN_000596-T1 FUN_000596	-	-	Y (0.786)	Non-effector
+FUN_000646-T1 FUN_000646	-	Y (0.917)	-	Apoplastic effector
+FUN_000662-T1 FUN_000662	-	Y (0.93)	-	Apoplastic effector
+FUN_000708-T1 FUN_000708	-	-	Y (0.537)	Non-effector
+FUN_000746-T1 FUN_000746	-	-	Y (0.662)	Non-effector
+FUN_000782-T1 FUN_000782	-	-	Y (0.696)	Non-effector
+FUN_000787-T1 FUN_000787	-	-	Y (0.929)	Non-effector
+FUN_000788-T1 FUN_000788	-	Y (0.673)	-	Apoplastic effector
+FUN_000814-T1 FUN_000814	-	-	Y (0.808)	Non-effector
+FUN_000830-T1 FUN_000830	-	-	Y (0.735)	Non-effector
+FUN_000856-T1 FUN_000856	-	-	Y (0.992)	Non-effector
+FUN_000901-T1 FUN_000901	-	-	Y (0.96)	Non-effector
+FUN_000912-T1 FUN_000912	-	-	Y (0.73)	Non-effector
+FUN_000913-T1 FUN_000913	-	-	Y (0.616)	Non-effector
+FUN_000987-T1 FUN_000987	-	-	Y (0.928)	Non-effector
+FUN_000994-T1 FUN_000994	-	-	Y (0.69)	Non-effector
+FUN_001006-T1 FUN_001006	-	-	Y (0.835)	Non-effector
+FUN_001023-T1 FUN_001023	-	-	Y (0.792)	Non-effector
+FUN_001029-T1 FUN_001029	-	-	Y (0.789)	Non-effector
+FUN_001039-T1 FUN_001039	-	-	Y (0.978)	Non-effector
+FUN_001063-T1 FUN_001063	-	-	Y (0.987)	Non-effector
+FUN_001100-T1 FUN_001100	-	-	Y (0.541)	Non-effector
+FUN_001104-T1 FUN_001104	-	-	Y (0.772)	Non-effector
+FUN_001118-T1 FUN_001118	Y (0.66)	-	-	Cytoplasmic effector
+FUN_001160-T1 FUN_001160	-	-	Y (0.831)	Non-effector
+FUN_001195-T1 FUN_001195	-	-	Y (0.536)	Non-effector
+FUN_001299-T1 FUN_001299	-	-	Y (0.812)	Non-effector
+FUN_001316-T1 FUN_001316	-	-	Y (0.773)	Non-effector
+FUN_001365-T1 FUN_001365	-	-	Y (0.749)	Non-effector
+FUN_001366-T1 FUN_001366	-	-	Y (0.936)	Non-effector
+FUN_001394-T1 FUN_001394	-	-	Y (0.546)	Non-effector
+FUN_001410-T1 FUN_001410	-	Y (0.519)	-	Apoplastic effector
+FUN_001413-T1 FUN_001413	-	-	Y (0.729)	Non-effector
+FUN_001420-T1 FUN_001420	-	-	Y (0.636)	Non-effector
+FUN_001455-T1 FUN_001455	-	-	Y (0.894)	Non-effector
+FUN_001482-T1 FUN_001482	-	-	Y (0.74)	Non-effector
+FUN_001498-T1 FUN_001498	-	-	Y (0.809)	Non-effector
+FUN_001505-T1 FUN_001505	Y (0.89)	-	-	Cytoplasmic effector
+FUN_001523-T1 FUN_001523	-	-	Y (0.814)	Non-effector
+FUN_001559-T1 FUN_001559	-	-	Y (0.771)	Non-effector
+FUN_001608-T1 FUN_001608	Y (0.625)	Y (0.544)	-	Cytoplasmic/apoplastic effector
+FUN_001628-T1 FUN_001628	-	-	Y (0.595)	Non-effector
+FUN_001657-T1 FUN_001657	-	-	Y (0.962)	Non-effector
+FUN_001689-T1 FUN_001689	-	-	Y (0.987)	Non-effector
+FUN_001696-T1 FUN_001696	-	-	Y (0.98)	Non-effector
+FUN_001702-T1 FUN_001702	-	Y (0.749)	-	Apoplastic effector
+FUN_001746-T1 FUN_001746	-	-	Y (0.661)	Non-effector
+FUN_001750-T1 FUN_001750	-	-	Y (0.757)	Non-effector
+FUN_001755-T1 FUN_001755	Y (0.763)	-	-	Cytoplasmic effector
+FUN_001786-T1 FUN_001786	-	-	Y (0.718)	Non-effector
+FUN_001850-T1 FUN_001850	-	Y (0.53)	-	Apoplastic effector
+FUN_001853-T1 FUN_001853	-	-	Y (0.662)	Non-effector
+FUN_001856-T1 FUN_001856	-	-	Y (0.7)	Non-effector
+FUN_001909-T1 FUN_001909	Y (0.686)	-	-	Cytoplasmic effector
+FUN_001916-T1 FUN_001916	-	-	Y (0.549)	Non-effector
+FUN_001925-T1 FUN_001925	Y (0.504)	-	-	Cytoplasmic effector
+FUN_001938-T1 FUN_001938	-	-	Y (0.828)	Non-effector
+FUN_001972-T1 FUN_001972	-	-	Y (0.559)	Non-effector
+FUN_001990-T1 FUN_001990	-	-	Y (0.953)	Non-effector
+FUN_002009-T1 FUN_002009	-	-	Y (0.766)	Non-effector
+FUN_002066-T1 FUN_002066	Y (0.655)	-	-	Cytoplasmic effector
+FUN_002119-T1 FUN_002119	-	-	Y (0.796)	Non-effector
+FUN_002153-T1 FUN_002153	-	-	Y (0.748)	Non-effector
+FUN_002176-T1 FUN_002176	-	Y (0.667)	-	Apoplastic effector
+FUN_002178-T1 FUN_002178	-	-	Y (0.804)	Non-effector
+FUN_002200-T1 FUN_002200	-	Y (0.554)	-	Apoplastic effector
+FUN_002238-T1 FUN_002238	-	Y (0.739)	-	Apoplastic effector
+FUN_002256-T1 FUN_002256	-	-	Y (0.886)	Non-effector
+FUN_002263-T1 FUN_002263	-	-	Y (0.836)	Non-effector
+FUN_002286-T1 FUN_002286	-	-	Y (0.856)	Non-effector
+FUN_002315-T1 FUN_002315	-	-	Y (0.786)	Non-effector
+FUN_002316-T1 FUN_002316	-	-	Y (0.692)	Non-effector
+FUN_002319-T1 FUN_002319	-	Y (0.607)	-	Apoplastic effector
+FUN_002342-T1 FUN_002342	-	-	Y (0.834)	Non-effector
+FUN_002345-T1 FUN_002345	-	-	Y (0.644)	Non-effector
+FUN_002349-T1 FUN_002349	-	-	Y (0.64)	Non-effector
+FUN_002371-T1 FUN_002371	Y (0.699)	-	-	Cytoplasmic effector
+FUN_002404-T1 FUN_002404	-	-	Y (0.782)	Non-effector
+FUN_002467-T1 FUN_002467	-	-	Y (0.89)	Non-effector
+FUN_002510-T1 FUN_002510	-	-	Y (0.861)	Non-effector
+FUN_002527-T1 FUN_002527	Y (0.692)	-	-	Cytoplasmic effector
+FUN_002534-T1 FUN_002534	-	Y (0.542)	-	Apoplastic effector
+FUN_002537-T1 FUN_002537	-	-	Y (0.844)	Non-effector
+FUN_002543-T1 FUN_002543	-	-	Y (0.946)	Non-effector
+FUN_002564-T1 FUN_002564	-	-	Y (0.564)	Non-effector
+FUN_002570-T1 FUN_002570	Y (0.669)	-	-	Cytoplasmic effector
+FUN_002579-T1 FUN_002579	-	-	Y (0.784)	Non-effector
+FUN_002621-T1 FUN_002621	-	Y (0.794)	-	Apoplastic effector
+FUN_002643-T1 FUN_002643	-	-	Y (0.962)	Non-effector
+FUN_002670-T1 FUN_002670	-	-	Y (0.822)	Non-effector
+FUN_002707-T1 FUN_002707	Y (0.779)	-	-	Cytoplasmic effector
+FUN_002708-T1 FUN_002708	-	-	Y (0.676)	Non-effector
+FUN_002714-T1 FUN_002714	Y (0.836)	-	-	Cytoplasmic effector
+FUN_002715-T1 FUN_002715	-	-	Y (0.882)	Non-effector
+FUN_002792-T1 FUN_002792	-	-	Y (0.977)	Non-effector
+FUN_002809-T1 FUN_002809	-	-	Y (0.814)	Non-effector
+FUN_002810-T1 FUN_002810	-	-	Y (0.785)	Non-effector
+FUN_002816-T1 FUN_002816	-	-	Y (0.826)	Non-effector
+FUN_002839-T1 FUN_002839	-	-	Y (0.808)	Non-effector
+FUN_002859-T1 FUN_002859	-	Y (0.735)	-	Apoplastic effector
+FUN_002874-T1 FUN_002874	Y (0.768)	-	-	Cytoplasmic effector
+FUN_002879-T1 FUN_002879	Y (0.534)	-	-	Cytoplasmic effector
+FUN_002893-T1 FUN_002893	-	-	Y (0.642)	Non-effector
+FUN_002918-T1 FUN_002918	Y (0.544)	-	-	Cytoplasmic effector
+FUN_002925-T1 FUN_002925	-	-	Y (0.723)	Non-effector
+FUN_002931-T1 FUN_002931	-	-	Y (0.826)	Non-effector
+FUN_002942-T1 FUN_002942	-	Y (0.653)	-	Apoplastic effector
+FUN_002976-T1 FUN_002976	-	-	Y (0.584)	Non-effector
+FUN_002977-T1 FUN_002977	-	-	Y (0.856)	Non-effector
+FUN_002979-T1 FUN_002979	-	-	Y (0.895)	Non-effector
+FUN_003039-T1 FUN_003039	-	-	Y (0.864)	Non-effector
+FUN_003057-T1 FUN_003057	-	-	Y (0.657)	Non-effector
+FUN_003064-T1 FUN_003064	-	-	Y (0.987)	Non-effector
+FUN_003067-T1 FUN_003067	-	-	Y (0.68)	Non-effector
+FUN_003073-T1 FUN_003073	-	Y (0.798)	-	Apoplastic effector
+FUN_003128-T1 FUN_003128	-	-	Y (0.827)	Non-effector
+FUN_003135-T1 FUN_003135	-	-	Y (0.907)	Non-effector
+FUN_003147-T1 FUN_003147	-	-	Y (0.952)	Non-effector
+FUN_003157-T1 FUN_003157	-	-	Y (0.934)	Non-effector
+FUN_003161-T1 FUN_003161	-	-	Y (0.688)	Non-effector
+FUN_003189-T1 FUN_003189	-	Y (0.549)	-	Apoplastic effector
+FUN_003220-T1 FUN_003220	-	Y (0.651)	-	Apoplastic effector
+FUN_003230-T1 FUN_003230	-	Y (0.901)	-	Apoplastic effector
+FUN_003236-T1 FUN_003236	-	-	Y (0.703)	Non-effector
+FUN_003252-T1 FUN_003252	-	Y (0.56)	-	Apoplastic effector
+FUN_003341-T1 FUN_003341	-	Y (0.612)	-	Apoplastic effector
+FUN_003354-T1 FUN_003354	-	-	Y (0.613)	Non-effector
+FUN_003411-T1 FUN_003411	-	-	Y (0.814)	Non-effector
+FUN_003487-T1 FUN_003487	-	Y (0.553)	-	Apoplastic effector
+FUN_003499-T1 FUN_003499	-	Y (0.657)	-	Apoplastic effector
+FUN_003501-T1 FUN_003501	-	-	Y (0.786)	Non-effector
+FUN_003506-T1 FUN_003506	-	Y (0.545)	-	Apoplastic effector
+FUN_003520-T1 FUN_003520	-	-	Y (0.762)	Non-effector
+FUN_003533-T1 FUN_003533	-	-	Y (0.609)	Non-effector
+FUN_003540-T1 FUN_003540	-	Y (0.606)	-	Apoplastic effector
+FUN_003550-T1 FUN_003550	-	Y (0.644)	-	Apoplastic effector
+FUN_003563-T1 FUN_003563	-	-	Y (0.812)	Non-effector
+FUN_003599-T1 FUN_003599	-	-	Y (0.864)	Non-effector
+FUN_003611-T1 FUN_003611	-	Y (0.554)	-	Apoplastic effector
+FUN_003616-T1 FUN_003616	Y (0.591)	-	-	Cytoplasmic effector
+FUN_003716-T1 FUN_003716	-	-	Y (0.877)	Non-effector
+FUN_003740-T1 FUN_003740	-	-	Y (0.987)	Non-effector
+FUN_003861-T1 FUN_003861	-	-	Y (0.837)	Non-effector
+FUN_003872-T1 FUN_003872	-	Y (0.552)	-	Apoplastic effector
+FUN_003882-T1 FUN_003882	-	Y (0.659)	-	Apoplastic effector
+FUN_003910-T1 FUN_003910	-	Y (0.506)	-	Apoplastic effector
+FUN_003965-T1 FUN_003965	Y (0.67)	-	-	Cytoplasmic effector
+FUN_004021-T1 FUN_004021	-	-	Y (0.904)	Non-effector
+FUN_004052-T1 FUN_004052	Y (0.688)	-	-	Cytoplasmic effector
+FUN_004083-T1 FUN_004083	-	-	Y (0.578)	Non-effector
+FUN_004091-T1 FUN_004091	-	-	Y (0.713)	Non-effector
+FUN_004092-T1 FUN_004092	-	-	Y (0.755)	Non-effector
+FUN_004093-T1 FUN_004093	-	Y (0.636)	-	Apoplastic effector
+FUN_004094-T1 FUN_004094	-	Y (0.661)	-	Apoplastic effector
+FUN_004109-T1 FUN_004109	-	-	Y (0.556)	Non-effector
+FUN_004115-T1 FUN_004115	-	-	Y (0.729)	Non-effector
+FUN_004124-T1 FUN_004124	-	-	Y (0.61)	Non-effector
+FUN_004131-T1 FUN_004131	-	-	Y (0.986)	Non-effector
+FUN_004143-T1 FUN_004143	Y (0.856)	-	-	Cytoplasmic effector
+FUN_004175-T1 FUN_004175	-	-	Y (0.691)	Non-effector
+FUN_004218-T1 FUN_004218	-	-	Y (0.897)	Non-effector
+FUN_004231-T1 FUN_004231	-	-	Y (0.868)	Non-effector
+FUN_004263-T1 FUN_004263	Y (0.906)	-	-	Cytoplasmic effector
+FUN_004332-T1 FUN_004332	-	-	Y (0.873)	Non-effector
+FUN_004336-T1 FUN_004336	-	-	Y (0.543)	Non-effector
+FUN_004356-T1 FUN_004356	Y (0.567)	-	-	Cytoplasmic effector
+FUN_004363-T1 FUN_004363	-	-	Y (0.779)	Non-effector
+FUN_004417-T1 FUN_004417	Y (0.62)	-	-	Cytoplasmic effector
+FUN_004447-T1 FUN_004447	-	-	Y (0.756)	Non-effector
+FUN_004484-T1 FUN_004484	Y (0.516)	-	-	Cytoplasmic effector
+FUN_004510-T1 FUN_004510	-	-	Y (0.695)	Non-effector
+FUN_004531-T1 FUN_004531	-	-	Y (0.952)	Non-effector
+FUN_004532-T1 FUN_004532	-	-	Y (0.679)	Non-effector
+FUN_004600-T1 FUN_004600	Y (0.695)	-	-	Cytoplasmic effector
+FUN_004620-T1 FUN_004620	-	-	Y (0.587)	Non-effector
+FUN_004644-T1 FUN_004644	Y (0.761)	-	-	Cytoplasmic effector
+FUN_004667-T1 FUN_004667	-	-	Y (0.623)	Non-effector
+FUN_004697-T1 FUN_004697	-	-	Y (0.792)	Non-effector
+FUN_004755-T1 FUN_004755	-	-	Y (0.803)	Non-effector
+FUN_004758-T1 FUN_004758	Y (0.878)	-	-	Cytoplasmic effector
+FUN_004790-T1 FUN_004790	-	-	Y (0.781)	Non-effector
+FUN_004835-T1 FUN_004835	-	Y (0.833)	-	Apoplastic effector
+FUN_004886-T1 FUN_004886	-	-	Y (0.508)	Non-effector
+FUN_004928-T1 FUN_004928	-	-	Y (0.795)	Non-effector
+FUN_004933-T1 FUN_004933	-	-	Y (0.583)	Non-effector
+FUN_004934-T1 FUN_004934	-	Y (0.528)	-	Apoplastic effector
+FUN_004961-T1 FUN_004961	-	-	Y (0.571)	Non-effector
+FUN_004963-T1 FUN_004963	Y (0.653)	-	-	Cytoplasmic effector
+FUN_004985-T1 FUN_004985	-	-	Y (0.541)	Non-effector
+FUN_005016-T1 FUN_005016	-	-	Y (0.531)	Non-effector
+FUN_005034-T1 FUN_005034	Y (0.55)	-	-	Cytoplasmic effector
+FUN_005044-T1 FUN_005044	-	-	Y (0.878)	Non-effector
+FUN_005053-T1 FUN_005053	-	Y (0.899)	-	Apoplastic effector
+FUN_005064-T1 FUN_005064	-	Y (0.621)	-	Apoplastic effector
+FUN_005126-T1 FUN_005126	-	-	Y (0.898)	Non-effector
+FUN_005129-T1 FUN_005129	-	-	Y (0.919)	Non-effector
+FUN_005155-T1 FUN_005155	Y (0.735)	-	-	Cytoplasmic effector
+FUN_005205-T1 FUN_005205	Y (0.601)	Y (0.719)	-	Apoplastic/cytoplasmic effector
+FUN_005209-T1 FUN_005209	-	-	Y (0.654)	Non-effector
+FUN_005242-T1 FUN_005242	-	-	Y (0.727)	Non-effector
+FUN_005243-T1 FUN_005243	-	-	Y (0.773)	Non-effector
+FUN_005280-T1 FUN_005280	Y (0.839)	-	-	Cytoplasmic effector
+FUN_005382-T1 FUN_005382	-	-	Y (0.74)	Non-effector
+FUN_005386-T1 FUN_005386	-	-	Y (0.951)	Non-effector
+FUN_005404-T1 FUN_005404	-	Y (0.666)	-	Apoplastic effector
+FUN_005416-T1 FUN_005416	-	-	Y (0.635)	Non-effector
+FUN_005443-T1 FUN_005443	Y (0.711)	Y (0.528)	-	Cytoplasmic/apoplastic effector
+FUN_005459-T1 FUN_005459	-	-	Y (0.693)	Non-effector
+FUN_005461-T1 FUN_005461	Y (0.864)	Y (0.532)	-	Cytoplasmic/apoplastic effector
+FUN_005465-T1 FUN_005465	-	-	Y (0.746)	Non-effector
+FUN_005480-T1 FUN_005480	Y (0.831)	-	-	Cytoplasmic effector
+FUN_005483-T1 FUN_005483	Y (0.683)	Y (0.893)	-	Apoplastic/cytoplasmic effector
+FUN_005519-T1 FUN_005519	-	-	Y (0.81)	Non-effector
+FUN_005570-T1 FUN_005570	-	-	Y (0.852)	Non-effector
+FUN_005584-T1 FUN_005584	-	-	Y (0.889)	Non-effector
+FUN_005608-T1 FUN_005608	-	-	Y (0.618)	Non-effector
+FUN_005620-T1 FUN_005620	-	-	Y (0.897)	Non-effector
+FUN_005674-T1 FUN_005674	Y (0.664)	-	-	Cytoplasmic effector
+FUN_005706-T1 FUN_005706	-	-	Y (0.735)	Non-effector
+FUN_005728-T1 FUN_005728	-	-	Y (0.773)	Non-effector
+FUN_005766-T1 FUN_005766	-	-	Y (0.565)	Non-effector
+FUN_005807-T1 FUN_005807	Y (0.852)	-	-	Cytoplasmic effector
+FUN_005878-T1 FUN_005878	-	-	Y (0.622)	Non-effector
+FUN_005894-T1 FUN_005894	-	-	Y (0.987)	Non-effector
+FUN_005897-T1 FUN_005897	-	-	Y (0.792)	Non-effector
+FUN_005928-T1 FUN_005928	-	-	Y (0.583)	Non-effector
+FUN_005931-T1 FUN_005931	-	Y (0.922)	-	Apoplastic effector
+FUN_005990-T1 FUN_005990	Y (0.57)	-	-	Cytoplasmic effector
+FUN_005991-T1 FUN_005991	-	-	Y (0.674)	Non-effector
+FUN_005992-T1 FUN_005992	Y (0.528)	-	-	Cytoplasmic effector
+FUN_005993-T1 FUN_005993	-	-	Y (0.515)	Non-effector
+FUN_005994-T1 FUN_005994	-	Y (0.578)	-	Apoplastic effector
+FUN_006022-T1 FUN_006022	-	-	Y (0.933)	Non-effector
+FUN_006034-T1 FUN_006034	-	-	Y (0.944)	Non-effector
+FUN_006046-T1 FUN_006046	Y (0.526)	-	-	Cytoplasmic effector
+FUN_006047-T1 FUN_006047	-	-	Y (0.933)	Non-effector
+FUN_006121-T1 FUN_006121	-	-	Y (0.854)	Non-effector
+FUN_006122-T1 FUN_006122	-	Y (0.652)	-	Apoplastic effector
+FUN_006193-T1 FUN_006193	-	Y (0.765)	-	Apoplastic effector
+FUN_006262-T1 FUN_006262	-	-	Y (0.541)	Non-effector
+FUN_006309-T1 FUN_006309	Y (0.835)	-	-	Cytoplasmic effector
+FUN_006340-T1 FUN_006340	-	-	Y (0.787)	Non-effector
+FUN_006341-T1 FUN_006341	-	-	Y (0.84)	Non-effector
+FUN_006370-T1 FUN_006370	-	-	Y (0.887)	Non-effector
+FUN_006384-T1 FUN_006384	-	-	Y (0.566)	Non-effector
+FUN_006393-T1 FUN_006393	-	-	Y (0.636)	Non-effector
+FUN_006401-T1 FUN_006401	-	-	Y (0.874)	Non-effector
+FUN_006408-T1 FUN_006408	-	-	Y (0.774)	Non-effector
+FUN_006411-T1 FUN_006411	-	-	Y (0.839)	Non-effector
+FUN_006451-T1 FUN_006451	-	-	Y (0.508)	Non-effector
+FUN_006460-T1 FUN_006460	-	Y (0.525)	-	Apoplastic effector
+FUN_006478-T1 FUN_006478	-	-	Y (0.816)	Non-effector
+FUN_006555-T1 FUN_006555	-	-	Y (0.868)	Non-effector
+FUN_006608-T1 FUN_006608	-	-	Y (0.961)	Non-effector
+FUN_006612-T1 FUN_006612	-	-	Y (0.851)	Non-effector
+FUN_006621-T1 FUN_006621	-	Y (0.84)	-	Apoplastic effector
+FUN_006644-T1 FUN_006644	Y (0.571)	Y (0.868)	-	Apoplastic/cytoplasmic effector

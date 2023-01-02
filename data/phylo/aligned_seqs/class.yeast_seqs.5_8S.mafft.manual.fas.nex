@@ -1,0 +1,511 @@
+#NEXUS
+[written Mon Dec 26 19:30:21 EST 2022 by Mesquite  version 3.31 (build 859) at DESKTOP-8ESE1DO/192.168.1.155]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=329;
+	TAXLABELS
+		'NR_155845.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155844.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137664.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137663.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_175762.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174787.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174786.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174785.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_120214.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137556.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137686.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073345.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137660.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137659.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137641.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137666.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155773.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_136959.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155770.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155840.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154537.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174798.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174797.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174796.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174795.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174794.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174793.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174792.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073331.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073292.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073289.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073265.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_111077.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154743.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_160339.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155730.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155684.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154830.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_153630.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_147642.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174804.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174803.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174801.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174799.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174784.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_173424.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_173420.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073275.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073330.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073324.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073313.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073305.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073303.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073297.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073288.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_111078.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073274.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_077091.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_167940.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_173419.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155333.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154794.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_175646.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174790.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_173817.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_111681.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_170718.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_169918.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_169917.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_119964.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_103609.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_119596.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_119576.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154749.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073315.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_111080.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073285.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073276.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_149325.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_077089.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_077090.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_163533.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155729.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155583.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155332.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154359.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154358.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_147643.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_147641.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_138394.1|F|5.8S Extracted 5.8S sequence (156 bp)' 'NR_174802.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174791.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174783.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_111685.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154289.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137680.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154750.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073309.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073329.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073328.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_077096.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073290.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073267.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_077115.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_154536.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NR_160333.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_160332.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_160331.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_157462.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NR_155146.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155110.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174789.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174788.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_171237.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073326.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073291.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073269.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NR_132821.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_153197.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NR_163534.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155731.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_155310.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_153295.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NR_153298.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174800.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174039.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174038.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174037.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137036.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_137709.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073294.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_111079.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073286.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073277.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073273.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073271.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073282.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_132797.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'NR_155707.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_174782.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'NR_073287.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_136963.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NR_073314.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NR_073296.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'KY105523.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY105510.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY364838.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY364837.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'OK483138.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050409.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050408.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050406.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'JX508799.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'EU276008.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'EU003482.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY274824.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY069995.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY069991.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AB030331.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY552328.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY552327.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY015439.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY015429.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY105429.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY105937.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050440.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050439.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050437.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050435.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050434.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050431.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050428.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444633.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444537.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444533.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444492.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444490.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AB038090.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MF189945.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104695.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104681.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY102578.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY101705.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KU187884.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050452.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050451.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050443.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050441.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050404.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK493335.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444507.2|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444632.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444598.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444570.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444559.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444557.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444543.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444531.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444513.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444506.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY015430.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK493334.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104018.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KP216522.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050424.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'JN849458.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY040665.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY421500.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY421494.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'JN000071.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'FM957565.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'DQ640065.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'DQ366848.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444623.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444575.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444534.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444524.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444508.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY015434.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY015432.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY015431.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104386.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104692.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104387.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104016.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104504.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104503.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KU187885.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KU187882.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050450.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050426.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050402.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'JN882334.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'EF151246.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'DQ870625.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444631.2|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444564.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444629.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444628.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444542.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444535.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444495.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AB030327.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY105766.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'KY450666.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY450665.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY450663.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104910.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'KY103475.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'HF934009.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050421.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050420.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444601.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444536.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444499.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'EU149807.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AB030342.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'KY104699.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104702.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'JN197600.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104925.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'KY285005.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050442.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050400.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050398.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050395.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'FN908919.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'FJ008054.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444539.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444532.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444527.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444510.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444505.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444502.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444520.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444529.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'AY015433.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050401.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'AF444530.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AY212987.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AF444573.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'AF444541.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'KJ676978.1|F|5.8S Extracted 5.8S sequence (156 bp)' 'KY102982.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MN983248.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050433.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY103496.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AB193175.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'MK050427.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY104735.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'MT560678.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'AB026006.2|F|5.8S Extracted 5.8S sequence (157 bp)' 'MK050449.1|F|5.8S Extracted 5.8S sequence (162 bp)' 'MG470912.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050417.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'KY105530.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050425.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'DQ831010.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'AB038079.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050366.1|F|5.8S Extracted 5.8S sequence (160 bp)' 'MK050367.1|F|5.8S Extracted 5.8S sequence (160 bp)' 'MK050370.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MK050368.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MK050369.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MK050372.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MK050373.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MN194597.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'KP020113.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MK050375.1|F|5.8S Extracted 5.8S sequence (159 bp)' 'MK050374.1|F|5.8S Extracted 5.8S sequence (156 bp)' 'MK050379.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050380.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050444.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050445.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050446.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050447.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MK050448.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'MT520689.1|F|5.8S Extracted 5.8S sequence (157 bp)' 'NS000004.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'NS000005.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'JX243797.1|F|5.8S Extracted 5.8S sequence (158 bp)' 'Leucr1|F|5.8S Extracted 5.8S sequence (158 bp)' 'Slotsu1|F|5.8S Extracted 5.8S sequence (158 bp)' 'Phlfa1|F|5.8S Extracted 5.8S sequence (158 bp)' 'ObeP2C70|F|5.8S Extracted 5.8S sequence (158 bp)' 'Hyabl1|F|5.8S Extracted 5.8S sequence (158 bp)' 'Hetpy1|F|5.8S Extracted 5.8S sequence (158 bp)' 'FBUI01000032.1:4208-4376|F|5.8S Extracted 5.8S sequence (158 bp)' 'FMSP01000016.1:9496-9664|F|5.8S Extracted 5.8S sequence (158 bp)'
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=166;
+	FORMAT DATATYPE = DNA GAP = - MISSING = ?;
+	MATRIX
+	'NR_155845.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_155844.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137664.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137663.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_175762.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174787.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174786.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174785.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_120214.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137556.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137686.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_073345.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137660.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137659.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137641.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_137666.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_155773.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_136959.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_155770.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_155840.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_154537.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174798.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174797.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174796.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174795.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174794.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174793.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_174792.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_073331.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073292.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_073289.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073265.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_111077.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_154743.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_160339.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_155730.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_155684.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_154830.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'NR_153630.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_147642.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_174804.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_174803.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_174801.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_174799.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_174784.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_173424.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_173420.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073275.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073330.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073324.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073313.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073305.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073303.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctcttgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_073297.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073288.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_111078.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_073274.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'NR_077091.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_167940.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'NR_173419.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcataa
+	'NR_155333.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_154794.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttcagtgtcatga
+	'NR_175646.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_174790.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_173817.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_111681.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_170718.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_169918.1|F|5.8S Extracted 5.8S sequence (158 bp)'             taactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_169917.1|F|5.8S Extracted 5.8S sequence (158 bp)'             taactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_119964.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_103609.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcgtga
+	'NR_119596.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_119576.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_154749.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'NR_073315.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_111080.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_073285.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'NR_073276.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_149325.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgttggagtgtcatga
+	'NR_077089.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgcctgtttgagtgtcatga
+	'NR_077090.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgttggagtgtcatga
+	'NR_163533.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_155729.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_155583.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_155332.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_154359.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_154358.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_147643.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_147641.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-catt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_138394.1|F|5.8S Extracted 5.8S sequence (156 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcaaattgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctctgg-tatt-ccggagagtatgcctgtttgagtgttat??
+	'NR_174802.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'NR_174791.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_174783.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_111685.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatacctgtttgagtgtcatga
+	'NR_154289.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_137680.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'NR_154750.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'NR_073309.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-catt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_073329.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_073328.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_077096.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'NR_073290.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_073267.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NR_077115.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_154536.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-t-gtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_160333.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaaaaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_160332.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_160331.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_157462.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'NR_155146.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'NR_155110.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'NR_174789.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_174788.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'NR_171237.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'NR_073326.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_073291.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_073269.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'NR_132821.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'NR_153197.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'NR_163534.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactccttgg-tatt-ccgaggagtatgtctgtttgagtgtcatga
+	'NR_155731.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactccttgg-tatt-ccgaggagtatgtctgtttgagtgtcatga
+	'NR_155310.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_153295.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'NR_153298.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_174800.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctttgg-tatt-ccgaagagtatatctgtttgagtgtcatga
+	'NR_174039.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcacatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgtctgttcgagtgttatga
+	'NR_174038.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcacatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctttgg-tatt-ccgaagagcatgtctgttcgagtgttatga
+	'NR_174037.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcacatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctttgg-tatt-ccgaagagcatgtctgttcgagtgttatga
+	'NR_137036.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_137709.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_073294.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_111079.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctccttgg-tatt-ccgaggagcatgcttgtttgagtgtcatga
+	'NR_073286.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'NR_073277.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_073273.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_073271.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_073282.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'NR_132797.1|F|5.8S Extracted 5.8S sequence (159 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgtggataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'NR_155707.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactccttgg-tatt-ccgaggagtatgcctgtttgagtgtcatga
+	'NR_174782.1|F|5.8S Extracted 5.8S sequence (159 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttgccactccttgg-tatt-ccgaggagtatgtctgtttgagtgtcatga
+	'NR_073287.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccgtgg-tatt-ccgcggagcatgtctgtttgagtgtcatga
+	'NR_136963.1|F|5.8S Extracted 5.8S sequence (158 bp)'             aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccgtgg-tatt-ccgcggagcatgtctgtttgagtgtcatga
+	'NR_073314.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggttctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgatctg-caggttt-c-gtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'NR_073296.1|F|5.8S Extracted 5.8S sequence (157 bp)'             aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'KY105523.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'KY105510.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY364838.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY364837.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'OK483138.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050409.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050408.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050406.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'JX508799.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'EU276008.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'EU003482.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY274824.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY069995.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY069991.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AB030331.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY552328.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY552327.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY015439.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AY015429.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'KY105429.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'KY105937.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050440.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050439.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050437.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050435.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050434.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050431.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050428.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AF444633.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444537.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AF444533.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444492.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444490.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AB038090.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MF189945.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'KY104695.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'KY104681.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'KY102578.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'KY101705.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'KU187884.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050452.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050451.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050443.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050441.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050404.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'MK493335.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444507.2|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444632.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444598.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444570.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444559.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444557.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctcttgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AF444543.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444531.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444513.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AF444506.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'AY015430.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'MK493334.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcataa
+	'KY104018.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'KP216522.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttcagtgtcatga
+	'MK050424.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'JN849458.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'AY040665.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'KY421500.1|F|5.8S Extracted 5.8S sequence (158 bp)'              taactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'KY421494.1|F|5.8S Extracted 5.8S sequence (158 bp)'              taactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'JN000071.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'FM957565.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcgtga
+	'DQ640065.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'DQ366848.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'AF444623.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'AF444575.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'AF444534.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'AF444524.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatgtctgtttgagtgtcgtga
+	'AF444508.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'AY015434.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgttggagtgtcatga
+	'AY015432.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgcctgtttgagtgtcatga
+	'AY015431.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgttggagtgtcatga
+	'KY104386.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'KY104692.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'KY104387.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'KY104016.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'KY104504.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'KY104503.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'KU187885.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'KU187882.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-catt-ccggggagcatgtctgtttgagtgtcatga
+	'MK050450.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'MK050426.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'MK050402.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'JN882334.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcgctgg-tatt-ccggcgagcatacctgtttgagtgtcatga
+	'EF151246.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'DQ870625.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'AF444631.2|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgcctgtttgagtgtcatga
+	'AF444564.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-catt-ccggggagcatgtctgtttgagtgtcatga
+	'AF444629.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AF444628.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'AF444542.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'AF444535.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'AF444495.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'AB030327.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'KY105766.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-t-gtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'KY450666.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaaaaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catcttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'KY450665.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'KY450663.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'KY104910.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'KY103475.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'HF934009.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'MK050421.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'MK050420.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataattaatgtgaattg-cagaatt-cagtgaa-ccatcgaatctttgaacg-catgttg-cactctctgg-tatt-ccggagagtatgtctgtttgagtgtcatga
+	'AF444601.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'AF444536.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'AF444499.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'EU149807.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'AB030342.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'KY104699.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactccttgg-tatt-ccgaggagtatgtctgtttgagtgtcatga
+	'KY104702.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactccttgg-tatt-ccgaggagtatgtctgtttgagtgtcatga
+	'JN197600.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'KY104925.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'KY285005.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'MK050442.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctttgg-tatt-ccgaagagtatatctgtttgagtgtcatga
+	'MK050400.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcacatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcgctgg-tatt-ccggcgagcatgtctgttcgagtgttatga
+	'MK050398.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcacatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctttgg-tatt-ccgaagagcatgtctgttcgagtgttatga
+	'MK050395.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcacatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctttgg-tatt-ccgaagagcatgtctgttcgagtgttatga
+	'FN908919.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'FJ008054.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'AF444539.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'AF444532.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctccttgg-tatt-ccgaggagcatgcttgtttgagtgtcatga
+	'AF444527.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'AF444510.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'AF444505.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'AF444502.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'AF444520.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccttgg-tatt-ccgaggagcatgcctgtttgagtgtcatga
+	'AF444529.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgtggataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctag-tatt-ctggggagcatgtctgtttgagtgtcatga
+	'AY015433.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cactccttgg-tatt-ccgaggagtatgcctgtttgagtgtcatga
+	'MK050401.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttgccactccttgg-tatt-ccgaggagtatgtctgtttgagtgtcatga
+	'AF444530.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccgtgg-tatt-ccgcggagcatgtctgtttgagtgtcatga
+	'AY212987.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggcttgctcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccgtgg-tatt-ccgcggagcatgtctgtttgagtgtcatga
+	'AF444573.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggttctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgatctg-caggttt-c-gtgaa-tcatcgaatctttgaacg-catcttg-cactctttgg-tatt-ccgaagagtatgtctgtttgagtgtcatga
+	'AF444541.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'KJ676978.1|F|5.8S Extracted 5.8S sequence (156 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcaaattgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cactctctgg-tatt-ccggagagtatgcctgtttgagtgttat??
+	'KY102982.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MN983248.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgtctgtttgagtgtcatga
+	'MK050433.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'KY103496.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctttctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'AB193175.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'MK050427.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccctgg-tatt-ccggggagcatgcctgtttgagtgtcatga
+	'KY104735.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'MT560678.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'AB026006.2|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctccatgg-tatt-ccgtggagcatgcctgtttgagtgtcatg?
+	'MK050449.1|F|5.8S Extracted 5.8S sequence (162 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattgccagaatt-cagtggattcttcgaatctttgaacgccaccttg-cgctctctgg-tattcccggagagcatttctgtttgagtgtcatga
+	'MG470912.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050417.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'KY105530.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'MK050425.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'DQ831010.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcagcaacggatctcttggttctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cacgatctgg-tatt-ccggatcgtatgcctgtctgagtgtcatga
+	'AB038079.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050366.1|F|5.8S Extracted 5.8S sequence (160 bp)'              aaactttcagcaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagatctaccctgaa-tcatcgaatttttgaacg-catcttg-cgctctctggttatt-ccggagagcatgcctgtttgagtgtcgcga
+	'MK050367.1|F|5.8S Extracted 5.8S sequence (160 bp)'              aaactttcagcaacggatctcttggctctcccatcgatgaagaacgcagcgaaatgc-gatacgtaatgtgaattg-cagatctaccctgaa-tcatcgaatttttgaacg-catcttg-cgctctttggttatt-ccgaagagcatgcctgtttgagtgtcgcga
+	'MK050370.1|F|5.8S Extracted 5.8S sequence (159 bp)'              caactataaacggtggatctcttggctctcgtatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctcgggccatt-cccgggagcatgcttgtttgagtgtcgcga
+	'MK050368.1|F|5.8S Extracted 5.8S sequence (159 bp)'              caactataaacggtggatctcttggctctcgtatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctcgggccatt-cccgggagcatgcttgtttgagtgtcgcga
+	'MK050369.1|F|5.8S Extracted 5.8S sequence (159 bp)'              caactataaacggtggatctcttggctctcgtatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctcgggccatt-cccgggagcatgcttgtttgagtgtcgcga
+	'MK050372.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-ctgtgaa-tcatcgaatctttgaacg-caccttg-cgctcttgggttatt-cctaagagcatgcttgtttgagtgtcgcaa
+	'MK050373.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcttgggttatt-cctaagagcatgcttgtttgagtgtcgcaa
+	'MN194597.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcttgggttatt-cctaagagcatgcttgtttgagtgtcgcaa
+	'KP020113.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctcttgggttatt-cctaagagcatgcttgtttgagtgtcgcaa
+	'MK050375.1|F|5.8S Extracted 5.8S sequence (159 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcaaagcgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcttgggttatt-cctaagagcatgcttgtttgagtaacagaa
+	'MK050374.1|F|5.8S Extracted 5.8S sequence (156 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcaaagcgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctcttgagttatt-ctctagagcatgcttgttggagtaacg???
+	'MK050379.1|F|5.8S Extracted 5.8S sequence (158 bp)'              caaaatgaagcaacggatctcttggctctcgcatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaaccccagtgaa-tcatcgaatctttgaacg-caccttg-cgctctgtgg-tagt-ccgcagagcatgcctgtttgagtgtcgcg?
+	'MK050380.1|F|5.8S Extracted 5.8S sequence (158 bp)'              caaaatgaagcaacggatctcttggctctcgcatcgatgaagaacgcagcgaaacgc-gaaatgtaatgtgaattg-cagaaccccagtgaa-tcatcgaatctttgaacg-caccttg-cgctctgtgg-tagt-ccgcagagcatgcctgtttgagtgtcgcg?
+	'MK050444.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050445.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050446.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050447.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MK050448.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgt-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-caccttg-cgctctctgg-tatt-ccggagagcatgcctgtttgagtgtcatga
+	'MT520689.1|F|5.8S Extracted 5.8S sequence (157 bp)'              aaactttcagcaatggatctcttggctctcgcatcgatgaagaacgcagcgaagcgc-gaaatgtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctttcaggttatt-cctggaagcatgcttgttggagtaacgg??
+	'NS000004.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaattgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'NS000005.1|F|5.8S Extracted 5.8S sequence (158 bp)'              aaactttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgc-gataagtaatgtgaattg-cagaatt-cagtgaa-tcatcgaatctttgaacg-catcttg-cgctctctgg-tatt-ccggagagcatgtctgtttgagtgtcatga
+	'JX243797.1|F|5.8S Extracted 5.8S sequence (158 bp)'              AAACTTATAGCAACGGATCTCTTGGCTCTCGTATCGATGAAGAACGCAGCGAAATGT-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-TCATCGAATCTTTGAACG-CATCTTG-CGCTCTTTGG-TATT-CCGAAGAGCATGTCTGTCTGAGTGTCACGA
+	'Leucr1|F|5.8S Extracted 5.8S sequence (158 bp)'                  AAACTTTCAACAACGGATCTCTTGGCTTGCTCATCGATGAAGAACGCAGCGAAATGT-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-TCATCGAATCTTTGAACG-CACCTTG-CGCTCTCTGG-TATT-CCGGAGAGCATGTCTGTTTGAGTGTCATGA
+	'Slotsu1|F|5.8S Extracted 5.8S sequence (158 bp)'                 AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGT-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-TCATCGAATCTTTGAACG-CACCTTG-CGCTCTCTGG-TATT-CCGGAGAGCATGCCTGTTTGAGTGTCATGA
+	'Phlfa1|F|5.8S Extracted 5.8S sequence (158 bp)'                  CAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGC-GATAAGTAATGTGAATTG-CAGAATT-TAATGAA-TCATCGAATCTTTGAACG-CACCTTG-CGCCCTTCGG-TATT-CCGAAGGGCATGTCTGTCTGAGCGTCTTTT
+	'ObeP2C70|F|5.8S Extracted 5.8S sequence (158 bp)'                AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGT-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-TCATCGAATCTTTGAACG-CACCTTG-CGCTCCCTGG-TATT-CCGGGGAGCATGCCTGTTTGAGTGTCATGA
+	'Hyabl1|F|5.8S Extracted 5.8S sequence (158 bp)'                  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAATTGC-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-CCATCGAATCTTTGAACG-CACCTTG-CACTCTTTGG-TATT-CCGAAGAGTATGCCTGTTTGAGTGTTATGA
+	'Hetpy1|F|5.8S Extracted 5.8S sequence (158 bp)'                  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAATTGC-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-CCATCGAATCTTTGAACG-CACCTTG-CACTCTTTGG-TATT-CCGAAGAGTATGCCTGTTTGAGTGTTATGA
+	'FBUI01000032.1:4208-4376|F|5.8S Extracted 5.8S sequence (158 bp)' AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGT-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-TCATCGAATCTTTGAACG-CATCTTG-CGCTCGCTGG-TATT-CCGGCGAGCATGTCTGTTTGAGTGTCGTGA
+	'FMSP01000016.1:9496-9664|F|5.8S Extracted 5.8S sequence (158 bp)' AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGT-GATAAGTAATGTGAATTG-CAGAATT-CAGTGAA-TCATCGAATCTTTGAACG-CATCTTG-CGCTCGCTGG-TATT-CCGGCGAGCATGTCTGTTTGAGTGTCGTGA
+
+;
+
+
+
+END;
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  166;
+
+END;
+
+BEGIN NOTES;
+
+	TAXABITS   NAME = newlyAddedTaxon on =  1 -  320;
+
+END;
+
+BEGIN CODONS;
+	CODESET * UNTITLED   =  universal:  1 -  166;
+
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Jukes-Cantor':  1 -  166;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1672101022078;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6032821945529513090;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 3257286254243963063;
+			mqVersion 331;
+			checksumv 0 3 4220791774 null  getNumChars 166 numChars 166 getNumTaxa 329 numTaxa 329   short true   bits 1152921504606846991   states 15   sumSquaresStatesOnly 1193450.0 sumSquares -2.9284206217013913E22 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 200;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1920 961;
+			setLocation 1912 -8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #3257286254243963063 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1720 889;
+					setLocation 1912 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool multiBlockSplitter;
+					endTell;
+					setActive;
+					setTool multiBlockSplitter;
+					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges off;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames off;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize off;
+					toggleColorsPanel off;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.align.AlignToDropped.AlignToDropped;
+				tell It;
+					gapCosts 16 6 1 1;
+					subCosts  10 5 10 10 10 5 5 10 10 10 5 10;
+				endTell;
+				getEmployee #mesquite.molec.ColorByAA.ColorByAA;
+				tell It;
+					emphasizeDegeneracy off;
+				endTell;
+				getEmployee #mesquite.molec.SequenceInfoEditor.SequenceInfoEditor;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;

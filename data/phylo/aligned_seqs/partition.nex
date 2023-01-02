@@ -1,0 +1,18 @@
+#nexus
+begin sets;
+	charset part1 = ../data/phylo/aligned_seqs/class.yeast_seqs.5_8S.excl.nex: 1-166;
+	charset part2 = ../data/phylo/aligned_seqs/class.yeast_seqs.SSU.excl.nex: 1-1797;
+	charset part3 = ../data/phylo/aligned_seqs/class.yeast_seqs.LSU.excl.nex: 1-894;
+	charset part4 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB1.excl.nex: 1-76\3 81-696\3;
+	charset part5 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB1.excl.nex: 2-77\3 79-697\3;
+	charset part6 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB1.excl.nex: 3-78\3 80-698\3;
+	charset part7 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB2.excl.nex: 1-1105\3;
+	charset part8 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB2.excl.nex: 2-1106\3;
+	charset part9 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB2.excl.nex: 3-1107\3;
+	charset part10 = ../data/phylo/aligned_seqs/class.yeast_seqs.TEF1.excl.nex: 1-772\3 776-782\3 784-967\3 972-1149\3;
+	charset part11 = ../data/phylo/aligned_seqs/class.yeast_seqs.TEF1.excl.nex: 2-773\3 777-783\3 785-968\3 970-1150\3;
+	charset part12 = ../data/phylo/aligned_seqs/class.yeast_seqs.TEF1.excl.nex: 3-774\3 775-781\3 786-969\3 971-1151\3;
+	charset part13 = ../data/phylo/aligned_seqs/class.yeast_seqs.CYTB.excl.nex: 1-202\3 207-432\3;
+	charset part14 = ../data/phylo/aligned_seqs/class.yeast_seqs.CYTB.excl.nex: 2-203\3 205-433\3;
+	charset part15 = ../data/phylo/aligned_seqs/class.yeast_seqs.CYTB.excl.nex: 3-204\3 206-434\3;
+end;

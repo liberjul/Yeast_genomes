@@ -5,6 +5,8 @@ parser.add_argument("-f", "--fasta", type=str, help="input FASTA")
 parser.add_argument("-m", "--hmm", type=str, help="input hmm hit table, from nhmmer")
 parser.add_argument("-o", "--output", type=str, help="output files path and prefix")
 parser.add_argument("-t", "--top_hit_only", action="store_true", help="output top hit only")
+parser.add_argument("-s", "--extra_start", type=int, default=0, help="extra characters to add before hit")
+parser.add_argument("-p", "--extra_stop", type=int, default=0, help="extra characters to add after hit")
 args = parser.parse_args()
 
 hit_dict={}
@@ -47,15 +49,21 @@ with open(args.fasta, "r") as ifile:
                         print(header, " Length: ", len(seq))
                         if int(start) > int(stop):
                             stop_new = start
-                            start = stop
-                            stop = stop_new
+                            start = max([stop - args.extra_start, 1)
+                            stop = min([stop_new + args.extra_stop, len(seq)]
+                        else:
+                            start = max([start - args.extra_start, 1)
+                            stop = min([stop + args.extra_stop, len(seq)]
                         buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
                 else:
                     print(header, " Length: ", len(seq))
                     if int(start) > int(stop):
                         stop_new = start
-                        start = stop
-                        stop = stop_new
+                        start = max([stop - args.extra_start, 1)
+                        stop = min([stop_new + args.extra_stop, len(seq)]
+                    else:
+                        start = max([start - args.extra_start, 1)
+                        stop = min([stop + args.extra_stop, len(seq)]
                     buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
         else:
             line = ifile.readline()

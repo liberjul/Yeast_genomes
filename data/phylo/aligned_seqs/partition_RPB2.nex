@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+	charset part7 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB2.excl.nex: 1-1105\3;
+	charset part8 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB2.excl.nex: 2-1106\3;
+	charset part9 = ../data/phylo/aligned_seqs/class.yeast_seqs.RPB2.excl.nex: 3-1107\3;
+end;

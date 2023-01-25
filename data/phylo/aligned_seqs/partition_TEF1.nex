@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+	charset part1 = ../data/phylo/aligned_seqs/class.yeast_seqs.TEF1.excl.nex: 1-772\3 776-782\3 784-967\3 972-1149\3;
+	charset part2 = ../data/phylo/aligned_seqs/class.yeast_seqs.TEF1.excl.nex: 2-773\3 777-783\3 785-968\3 970-1150\3;
+	charset part3 = ../data/phylo/aligned_seqs/class.yeast_seqs.TEF1.excl.nex: 3-774\3 775-781\3 786-969\3 971-1151\3;
+end;

@@ -1,0 +1,4 @@
+#nexus
+begin sets;
+	charset part1 = ../data/phylo/aligned_seqs/class.yeast_seqs.5_8S.excl.nex: 1-166;
+end;

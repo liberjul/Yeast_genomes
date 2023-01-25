@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+	charset part13 = ../data/phylo/aligned_seqs/class.yeast_seqs.CYTB.excl.nex: 1-202\3 207-432\3;
+	charset part14 = ../data/phylo/aligned_seqs/class.yeast_seqs.CYTB.excl.nex: 2-203\3 205-433\3;
+	charset part15 = ../data/phylo/aligned_seqs/class.yeast_seqs.CYTB.excl.nex: 3-204\3 206-434\3;
+end;

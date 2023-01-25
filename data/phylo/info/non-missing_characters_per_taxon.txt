@@ -1,0 +1,175 @@
+	5_8S	LSU	RPB1	TEF1	SSU	RPB2	CYTB
+Colacogloea_subericola	166	595.0					
+Sporobolomyces_ruberrimus	166	591.0	695.0	593.0			
+Glaciozyma_watsonii	166	585.0					
+Pseudosterigmatospora_motuoensis	163		628.0	1004.0	1797.0	1033.0	371.0
+Microbotryum_adenopetalae	166	596.0					
+Rhodotorula_evergladensis	166	591.0		876.0	1063.0	1065.0	
+Meniscomyces_layueensis	165		644.0	965.0	1797.0	984.0	434.0
+Colacogloea_retinophila	166	894.0	695.0	1031.0	1612.0	1068.0	389.0
+Rhodosporidiobolus_nylandii	166	894.0		957.0	1726.0	972.0	383.0
+Glaciozyma_antarctica	166	591.0	647.0			1065.0	417.0
+Udeniozyma_ferulica	166	894.0	695.0	992.0	1626.0	678.0	
+Camptobasidium_arcticum	166	572.0		524.0	1709.0	903.0	370.0
+Meredithblackwellia_eburnea	166	894.0	698.0	1151.0	1613.0	1107.0	426.0
+Leucosporidium_golubevii	166	576.0	695.0	1031.0	1736.0	1065.0	
+Yamadamyces_rosulatus	166	894.0	364.0	994.0	1772.0	975.0	428.0
+Sporobolomyces_primogenomicus	166		698.0	1007.0	1366.0	1065.0	365.0
+Rhodosporidiobolus_odoratus	166	569.0	695.0	1031.0		1065.0	434.0
+Sporobolomyces_longiusculus	166	576.0					
+Glaciozyma_martinii	166	832.0					
+Leucosporidium_krtinense	166	559.0					
+Sporobolomyces_jilinensis	166	894.0	695.0	1031.0	1746.0	957.0	431.0
+Rhodotorula_pacifica	165		695.0	1031.0	1610.0	1065.0	431.0
+Yunzhangia_sonckii	166	591.0	695.0	1031.0	1626.0	1065.0	395.0
+Reniforma_strues	166	591.0	695.0	828.0	1609.0	1067.0	431.0
+Pseudobensingtonia_fusiformis	166		695.0	1046.0	1797.0	1107.0	434.0
+Yunzhangia_auriculariae	166	894.0	698.0	1031.0	1610.0	1068.0	395.0
+Spencerozyma_crocea	166	576.0	695.0	986.0	1618.0	1065.0	406.0
+Rhodosporidiobolus_lusitaniae	166	591.0	695.0	1031.0			428.0
+[Rhodotorula]_futronensis	166	558.0	695.0	1031.0	1592.0	696.0	
+Leucosporidium_scottii	166	591.0	698.0	1031.0	1706.0	1011.0	428.0
+Hamamotoa_singularis	166		695.0	645.0	1772.0	1065.0	428.0
+Leucosporidium_drummii	166	576.0					
+Curvibasidium_cygneicollum	166	591.0	695.0			1065.0	431.0
+Rhodotorula_kratochvilovae	166	591.0	613.0	1031.0		244.0	377.0
+Rhodosporidiobolus_microsporus	166	591.0	665.0	1031.0	1797.0	996.0	431.0
+Leucosporidium_muscorum	166	591.0	665.0	990.0	1784.0	330.0	
+Heitmania_elacocarpi	166	558.0		1009.0	1622.0		
+Camptobasidium_gelus	166	591.0					
+Rhodosporidiobolus_fuzhouensis	166		662.0	1031.0	1797.0	1107.0	361.0
+Chrysozyma_rhododendri	166		695.0	1013.0	1797.0	1107.0	419.0
+Heitmania_tridentata	166		698.0	1104.0	1797.0	1011.0	434.0
+Bannozyma_yamatoana	166	868.0					
+Microbotryum_violaceum	166	594.0					
+Curvibasidium_pallidicorallinum	166	573.0	695.0	986.0		1020.0	428.0
+Sporobolomyces_japonicus	166	674.0	693.0	938.0	1797.0	1050.0	414.0
+Rhodosporidiobolus_fluvialis	166	591.0	695.0	1031.0		696.0	428.0
+Rhodotorula_diobovata	166	591.0	695.0	1031.0		1059.0	428.0
+Heitmania_castanopsis	166	553.0	613.0	980.0	1632.0	966.0	
+Pseudoleucosporidium_fasciculatum	166		695.0	1031.0	1612.0	1068.0	
+Sporobolomyces_salmoneus	166		692.0	1031.0	1612.0	1056.0	434.0
+Sporobolomyces_musae	166	812.0					
+Leucosporidium_yakuticum	166	733.0			1725.0	636.0	428.0
+Rhodotorula_sphaerocarpa	165	894.0	695.0	1031.0		1020.0	419.0
+Yamadamyces_terricola	166		643.0	1106.0	1797.0	1062.0	428.0
+Chrysozyma_fushanensis	166		695.0	1031.0		1065.0	428.0
+Colacogloea_rhododendri	166		689.0	956.0	1797.0	1107.0	395.0
+Atractocolax_pulvinatus	166	563.0			1080.0		
+Microbotryum_intermedium	166	894.0	698.0	1151.0	1797.0	1107.0	
+Rhodotorula_frigidialcoholis	165			1031.0			
+Leucosporidium_escuderoi	166	581.0					
+Rhodotorula_graminis	166	591.0	695.0	1031.0	1791.0	870.0	395.0
+Rhodosporidiobolus_platycladi	166		695.0	920.0	1797.0	981.0	395.0
+Colacogloea_diffluens	166	894.0	695.0	1031.0		1020.0	
+Phleogena_faginea	166	584.0	694.0	1151.0	1797.0	1107.0	433.0
+Sampaiozyma_vanillica	166	894.0	695.0	1031.0	1771.0	1065.0	428.0
+Sporobolomyces_reniformis	166		695.0	1031.0	1772.0	1107.0	434.0
+Oberwinklerozyma_yarrowii	166	894.0		1031.0		1029.0	428.0
+Chrysozyma_pseudogriseoflava	166		665.0	949.0	1797.0	975.0	392.0
+Sporobolomyces_lactucae	166			452.0			400.0
+Chrysozyma_fusiformis	166		698.0	1052.0	1797.0	1107.0	365.0
+Chrysozyma_cylindrica	166		698.0	1052.0	1797.0	1107.0	434.0
+Colacogloea_aletridis	166		698.0	1052.0	1797.0	1107.0	
+Chrysozyma_griseoflava	166	894.0	695.0	992.0	1772.0	1068.0	375.0
+Yurkovia_mendeliana	166	519.0			1116.0		
+Leucosporidium_fragarium	166	894.0	686.0	980.0	1612.0	930.0	
+Rhodosporidiobolus_jianfalingensis	166		686.0	1025.0	1797.0	1059.0	422.0
+Rhodotorula_babjevae	166	591.0					
+Rhodotorula_alborubescens	165	581.0	695.0	1031.0	1575.0	1065.0	407.0
+Rhodotorula_ngohengohe	166	894.0					
+Ruinenia_bangxiensis	166	595.0	649.0	920.0	1797.0	1002.0	
+Pseudohyphozyma_hydrangeae	166		662.0	1010.0	1797.0	1053.0	416.0
+Rhodotorula_taiwanensis	165	894.0	686.0	1031.0	1626.0	972.0	434.0
+Colacogloea_philyla	166	873.0	695.0	1031.0	1626.0	698.0	431.0
+Rhodosporidiobolus_azoricus	166		695.0	1031.0	127.0	1065.0	431.0
+Rosettozyma_cystopteridis	166		665.0	1019.0	1797.0	1014.0	434.0
+Rhodotorula_araucariae	166	639.0	695.0	1031.0	1797.0	1047.0	
+Colacogloea_foliorum	166	894.0	695.0	1031.0		1020.0	
+Colacogloea_falcata	166	591.0	695.0	1031.0	1624.0	1065.0	398.0
+Rosettozyma_motuoensis	166		698.0		1797.0	1107.0	434.0
+Sporobolomyces_carnicolor	166	619.0	695.0	1031.0		1065.0	428.0
+Microbotryum_liroi	166	855.0					
+Sporobolomyces_blumeae	166			929.0	1772.0	975.0	428.0
+Atractiella_rhizophila	166	568.0	698.0	1151.0	1797.0	1107.0	350.0
+Hamamotoa_telluris	166	591.0			1119.0		
+Leucosporidium_fellii	166	591.0	694.0	1031.0	1791.0	1065.0	431.0
+Hyalopycnis_blepharistoma	166	894.0	698.0	1151.0		1107.0	334.0
+Bensingtonia_pseudorectispora	166		653.0	955.0	1797.0	972.0	410.0
+Microbotryozyma_swertiae	166		698.0	1052.0	1797.0	1107.0	434.0
+Sporobolomyces_patagonicus	166	576.0	695.0	828.0	1797.0	1030.0	389.0
+Sporobolomyces_beijingensis	166		695.0	1031.0	1624.0	1065.0	428.0
+Microbotryozyma_collariae	166	585.0					
+Sporobolomyces_ellipsoideus	166		637.0	950.0	1797.0	972.0	392.0
+Rhodosporidiobolus_poonsookiae	166	653.0	692.0	1031.0	1626.0	1065.0	428.0
+Heterogastridium_pycnidioideum	166	894.0	698.0	1151.0	1797.0	1107.0	350.0
+Heitmania_litseae	166	563.0		980.0	1752.0		
+Slooffia_tsugae	166	591.0		1031.0	1772.0	1067.0	428.0
+Sterigmatospora_layueensis	166		695.0	1151.0	1797.0	1107.0	
+Rhodosporidiobolus_ruineniae	166	894.0		1031.0	1772.0	957.0	428.0
+Leucosporidium_intermedium	166	591.0	695.0	1031.0		1065.0	434.0
+Phenoliferia_glacialis	166	623.0	665.0	792.0	1734.0	997.0	
+Ruinenia_fanjingshanensis	166		558.0	1151.0	150.0	570.0	434.0
+Colacogloea_hydrangeae	166		665.0	948.0	1797.0		398.0
+Sporobolomyces_roseus	166	818.0	665.0	593.0		1020.0	428.0
+Sporobolomyces_johnsonii	166	591.0	695.0	593.0			308.0
+Colacogloea_terpenoidalis	166	894.0	695.0	1031.0	1626.0	1065.0	433.0
+Sporobolomyces_phaffii	166	894.0	665.0	1031.0	1612.0	1007.0	428.0
+Microbotryum_silenes-saxifragae	166	584.0					
+Fellozyma_inositophila	166	894.0	695.0	819.0	1772.0	713.0	428.0
+Slooffia_pilatii	166	591.0	695.0	1031.0	1797.0	1035.0	395.0
+Mixia_osmundae	166		689.0	1031.0	1772.0	1050.0	423.0
+Oberwinklerozyma_dicranopteridis	166		683.0		1797.0	1020.0	404.0
+Microbotryum_alpinum	166						
+Rhodosporidiobolus_colostri	166	576.0	695.0	1031.0	1772.0	1008.0	431.0
+Novel_sp_JL221	166	894.0	698.0	1151.0	1797.0	1107.0	433.0
+Chrysozyma_iridis	166		698.0	1003.0	1797.0	1107.0	434.0
+Ruinenia_lunata	166			479.0		975.0	414.0
+Rhodotorula_dairenensis	165	572.0		1031.0	1706.0	1065.0	428.0
+Novel_sp_JL201	166	894.0	698.0	1151.0	1793.0	1107.0	433.0
+Chrysozyma_flava	166		698.0	1052.0	1797.0	1107.0	434.0
+Phenoliferia_psychrophila	166	619.0		551.0	1610.0	726.0	428.0
+Sampaiozyma_ingeniosa	166	894.0	695.0	1031.0	1626.0	1065.0	395.0
+Rhodotorula_mucilaginosa	165		607.0	915.0		1065.0	395.0
+Sporidiobolus_metaroseus	166	894.0	695.0	1031.0	1612.0	1065.0	428.0
+Slooffia_globosa	166		698.0	1151.0	1797.0	1107.0	422.0
+Pseudohyphozyma_pustula	166	894.0	695.0	1031.0	1797.0	1065.0	395.0
+Colacogloea_cycloclastica	166	591.0	665.0	992.0	1630.0	1065.0	431.0
+Leucosporidium_creatinivorum	166	591.0	695.0	1031.0		1068.0	428.0
+Oberwinklerozyma_straminea	166		695.0	1031.0	1626.0	1054.0	405.0
+Oberwinklerozyma_nepetae	166		686.0		1797.0	1020.0	401.0
+Trigonosporomyces_hylophilus	166	894.0	665.0	1025.0	141.0	1067.0	395.0
+Pseudohyphozyma_buffonii	166	894.0	695.0	1031.0		1065.0	395.0
+Microbotryomycetes_sp_P2C70	166	587.0	696.0	1151.0	1797.0	1107.0	433.0
+Oberwinklerozyma_silvestris	166		695.0	1031.0	1611.0	711.0	428.0
+Glaciozyma_litoralis	166	516.0					
+Pseudohyphozyma_lulangensis	166		695.0		1797.0	1068.0	341.0
+Ustilentyloma_graminis	166	894.0	673.0	1031.0	1779.0	1065.0	395.0
+Bannozyma_arctica	166	576.0	643.0	992.0	1612.0	1065.0	431.0
+Slooffia_cresolica	166	591.0	695.0	1031.0	1797.0	1020.0	
+Sporobolomyces_salmonicolor	166	591.0	665.0	593.0	1772.0	389.0	314.0
+Libkindia_masarykiana	166	556.0			1745.0		
+Colacogloea_eucalyptica	166	582.0	695.0	1031.0	1797.0	1065.0	431.0
+Sporobolomyces_cellobiolyticus	166		662.0	947.0	1797.0	972.0	383.0
+Crittendenia_coppinsii	164	336.0					
+Rhodotorula_toruloides	165	556.0	698.0	959.0	163.0	1107.0	
+Phenoliferia_psychrophenolica	166	623.0	695.0	997.0	1712.0	987.0	398.0
+Sporobolomyces_koalae	166	894.0	689.0	1031.0	1628.0	1020.0	431.0
+Microbotryomycetes_sp_P6C30	166	894.0	698.0	1151.0	1797.0	1107.0	428.0
+[Rhodotorula]_nothofagi	166		695.0	1031.0	1626.0	1005.0	
+Vonarxula_javanica	166	591.0	677.0	1001.0	1797.0	1065.0	
+Chrysozyma_sambuci	166		659.0	1031.0	1797.0	972.0	
+Heitmania_cylindrica	166		653.0	1001.0	1797.0	1035.0	401.0
+Hamamotoa_cerberi	166	591.0			1112.0		
+Sporidiobolus_pararoseus	166	591.0		593.0			
+Chrysozyma_sorbariae	166		695.0	1046.0	1797.0	969.0	365.0
+Rhodotorula_paludigena	166	590.0	695.0	1031.0		339.0	
+Rosettozyma_petaloides	166		659.0	977.0	1797.0	927.0	392.0
+Hamamotoa_lignophila	166	894.0	695.0	490.0	1797.0	699.0	398.0
+Pseudohyphozyma_bogoriensis	166	894.0	695.0	825.0		1068.0	424.0
+Microbotryum_lychnidis-dioicae	166	894.0	698.0	1151.0	1797.0	1107.0	
+Rhodosporidiobolus_oreadorum	166	480.0					
+Rhodotorula_glutinis	166	894.0		1031.0	1767.0		
+Pycnopulvinus_aurantiacus	164						
+Sporobolomyces_bannaensis	166	591.0	695.0	495.0	1753.0	945.0	422.0
+Yurkovia_longicylindrica	166		698.0	1151.0	1797.0	1074.0	434.0

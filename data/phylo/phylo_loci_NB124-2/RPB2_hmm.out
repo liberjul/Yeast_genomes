@@ -1,0 +1,25 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+contig_7_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -                1    1020  895255  896395  895255  896413 1168204    +    1.4e-294  981.0  16.4  -
+contig_25_polypolish -          class.yeast_seqs.RPB2.dedup_types_no_miss -              682    1104  173572  173136  173600  173133  725202    -     6.5e-25   87.9   5.2  -
+contig_25_polypolish -          class.yeast_seqs.RPB2.dedup_types_no_miss -               39     452  174236  173811  174253  173800  725202    -     4.7e-15   55.2   2.6  -
+contig_7_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -             1018    1106  896453  896541  896450  896542 1168204    +     8.5e-14   51.0   3.1  -
+contig_3_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              989    1099 1211215 1211325 1211195 1211333 1859038    +     5.1e-07   28.6   4.0  -
+contig_24_polypolish -          class.yeast_seqs.RPB2.dedup_types_no_miss -              786     871  210353  210276  210374  210255  670409    -       0.032   12.7   1.6  -
+contig_15_polypolish -          class.yeast_seqs.RPB2.dedup_types_no_miss -              696     750  245226  245289  245206  245311 1233669    +        0.65    8.4   1.7  -
+contig_3_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              828     945 1052560 1052461 1052599 1052453 1859038    -        0.65    8.4   2.0  -
+contig_5_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              650     797  247908  248055  247888  248079 1624477    +        0.78    8.1   2.4  -
+contig_5_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              698     821  133501  133633  133484  133642 1624477    +         1.2    7.5   2.6  -
+contig_4_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              802     854   34345   34398   34319   34412 1362461    +         2.9    6.2   1.8  -
+contig_3_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              370     440 1210689 1210759 1210686 1210767 1859038    +         5.4    5.3   5.4  -
+contig_9_polypolish  -          class.yeast_seqs.RPB2.dedup_types_no_miss -              834     908  121719  121651  121739  121629 1313383    -         5.8    5.2   3.3  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/RPB2.hmm
+# Target file:     ../data/assembly/NB124-2/scaffolds_polished.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_NB124-2/RPB2_hmm.out --dna --cpu 24 ../data/phylo/hmms/RPB2.hmm ../data/assembly/NB124-2/scaffolds_polished.fasta 
+# Current dir:     /mnt/c/Users/jal138/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Jan 30 09:19:01 2024
+# [ok]

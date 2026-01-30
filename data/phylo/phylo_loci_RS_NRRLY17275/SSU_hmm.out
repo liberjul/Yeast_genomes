@@ -1,0 +1,20 @@
+# target name        accession  query name                               accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                     -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+k141_528             -          class.yeast_seqs.SSU.dedup_types_no_miss -               14    1090    8991    7914    9010    7894   10552    -           0 1184.8  24.0  flag=0 multi=3962.0000 len=10552
+k141_528             -          class.yeast_seqs.SSU.dedup_types_no_miss -             1091    1544    7546    7082    7566    7062   10552    -    5.8e-169  564.2   4.0  flag=0 multi=3962.0000 len=10552
+k141_528             -          class.yeast_seqs.SSU.dedup_types_no_miss -             1544    1716    6668    6497    6688    6496   10552    -     5.9e-37  126.5   0.8  flag=0 multi=3962.0000 len=10552
+k141_131             -          class.yeast_seqs.SSU.dedup_types_no_miss -              903    1093   48657   48825   48638   48842  109787    +     1.6e-25   88.6   6.1  flag=1 multi=84.9663 len=109787
+k141_634             -          class.yeast_seqs.SSU.dedup_types_no_miss -             1371    1497  305332  305469  305312  305490  335447    +     9.7e-20   69.5   2.1  flag=0 multi=84.9855 len=335447
+k141_585             -          class.yeast_seqs.SSU.dedup_types_no_miss -               14      63   89014   89064   88995   89079  151239    +     1.6e-06   25.6   3.8  flag=1 multi=85.6095 len=151239
+k141_131             -          class.yeast_seqs.SSU.dedup_types_no_miss -             1105    1139   50019   50053   50005   50073  109787    +      0.0086   13.3   2.3  flag=1 multi=84.9663 len=109787
+k141_526             -          class.yeast_seqs.SSU.dedup_types_no_miss -               17      80  273686  273749  273673  273758  397456    +       0.017   12.3   4.1  flag=1 multi=82.5806 len=397456
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/SSU.hmm
+# Target file:     ../data/assembly/RS_NRRLY17275.fna
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_RS_NRRLY17275/SSU_hmm.out --cpu 4 ../data/phylo/hmms/SSU.hmm ../data/assembly/RS_NRRLY17275.fna 
+# Current dir:     /mnt/c/Users/jal138/Duke Bio_Ea Dropbox/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Oct 21 12:21:11 2025
+# [ok]

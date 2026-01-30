@@ -1,0 +1,20 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+k141_282             -          class.yeast_seqs.TEF1.dedup_types_no_miss -                2    1147   14768   15917   14767   15918  166496    +           0 1191.6   6.5  flag=0 multi=86.6583 len=166496
+k141_260             -          class.yeast_seqs.TEF1.dedup_types_no_miss -               46     426   40356   39967   40379   39946  175227    -     8.8e-26   89.9   3.0  flag=0 multi=85.2730 len=175227
+k141_409             -          class.yeast_seqs.TEF1.dedup_types_no_miss -               49     316    4840    5104    4819    5121   15535    +     2.3e-09   35.6   3.6  flag=0 multi=78.8885 len=15535
+k141_274             -          class.yeast_seqs.TEF1.dedup_types_no_miss -               43     282   95422   95640   95401   95683  163696    +     3.9e-08   31.5   4.0  flag=0 multi=83.3677 len=163696
+k141_274             -          class.yeast_seqs.TEF1.dedup_types_no_miss -              547     808   95863   96133   95843   96152  163696    +     7.4e-07   27.3   2.5  flag=0 multi=83.3677 len=163696
+k141_260             -          class.yeast_seqs.TEF1.dedup_types_no_miss -             1060    1145   39365   39280   39385   39277  175227    -      0.0087   13.8   3.6  flag=0 multi=85.2730 len=175227
+k141_518             -          class.yeast_seqs.TEF1.dedup_types_no_miss -             1014    1099   41456   41358   41473   41338  123186    -         0.5    8.0   1.7  flag=0 multi=79.0201 len=123186
+k141_282             -          class.yeast_seqs.TEF1.dedup_types_no_miss -              369     417   91577   91534   91597   91528  166496    -         8.7    3.8   4.2  flag=0 multi=86.6583 len=166496
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/TEF1.hmm
+# Target file:     ../data/assembly/RS_NRRLY17275.fna
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_RS_NRRLY17275/TEF1_hmm.out --cpu 4 ../data/phylo/hmms/TEF1.hmm ../data/assembly/RS_NRRLY17275.fna 
+# Current dir:     /mnt/c/Users/jal138/Duke Bio_Ea Dropbox/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Oct 21 12:21:04 2025
+# [ok]

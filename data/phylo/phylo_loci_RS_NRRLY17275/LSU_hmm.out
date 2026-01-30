@@ -1,0 +1,13 @@
+# target name        accession  query name                               accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                     -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+k141_528             -          class.yeast_seqs.LSU.dedup_types_no_miss -                1     838    5942    5130    5942    5117   10552    -    2.4e-219  731.8  27.3  flag=0 multi=3962.0000 len=10552
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/LSU.hmm
+# Target file:     ../data/assembly/RS_NRRLY17275.fna
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_RS_NRRLY17275/LSU_hmm.out --cpu 4 ../data/phylo/hmms/LSU.hmm ../data/assembly/RS_NRRLY17275.fna 
+# Current dir:     /mnt/c/Users/jal138/Duke Bio_Ea Dropbox/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Oct 21 12:21:08 2025
+# [ok]

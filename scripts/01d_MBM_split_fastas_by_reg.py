@@ -1,11 +1,11 @@
-import glob, json,argparse
+import glob, json, argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-n", "--new", action="store_true", help="process and print new sequences")
 args = parser.parse_args()
 data_dir = "../data/phylo/unaligned_seqs"
 mbm_genera = (["Rosettozyma", "Trigonosporomyces", "Heterogastridium", "Spencerozyma", "Vonarxula", "Oberwinklerozyma", "Yamadamyces", "Kriegeria", "Phenoliferia",
-              "Fellozyma", "Bannozyma", "Chrysozyma", "Hamamotoa", "Yurkovia", "Udeniozyma", "Colacogloea", "Glaciozyma", "Pseudohyphozyma", "Slooffia",
+              "Fellozyma", "Bannozyma", "Chrysozyma", "Hamamotoa", "Yurkovia", "Udeniozyma", "Colacogloea", "Glaciozyma", "Pseudohyphozyma", "Slooffia", "Leucosporidiella"
               "Reniforma", "Yunzhangia", "Ustilentyloma", "Microbotryozyma", "Microbotryum", "Sphacelotheca", "Sampaiozyma", "Leucosporidium", "Pseudoleucosporidium",
               "Curvibasidium", "Heitmania", "Rhodosporidiobolus", "Rhodotorula", "Sporobolomyces", "Camptobasidium", "Psychromyces", "Cryolevonia", "Meredithblackwellia",
               "Sporidiobolus", "Libkindia", "Crucella", "[Rhodotorula]", "Pycnopulvinus"])
@@ -32,6 +32,9 @@ for i in fastas:
 
 fastas = glob.glob(F"{data_dir}/*MBM_types*fasta") #Changed to find Microbotryomycete seqs
 fastas += glob.glob(F"{data_dir}/yeast_seqs.*.fasta")
+fastas += glob.glob(F"{data_dir}/missing_ssu_lsu_accs*.fasta")
+fastas += glob.glob(F"{data_dir}/all_refseq_nuccore_accs.fasta")
+fastas += glob.glob(F"{data_dir}/2022_11_13_accs.fasta")
 
 seq_dict = {}
 
@@ -60,7 +63,6 @@ for i in fastas:
             else:
                 seq_dict[header_line] = seq
 
-# print(seq_dict)
 buf_ssu = ""
 buf_its = ""
 buf_lsu = ""
@@ -78,11 +80,14 @@ for header in seq_dict:
     if gen in mbm_genera:
         if "small subunit ribosomal" in header or "18S" in header:
             buf_ssu = F"{buf_ssu}{header}{seq_dict[header]}"
+            header_new = header.replace("genes for ", "").replace("genomic DNA containing ", "")
             if "18S" in header:
-                strain = header.split("18S")[0].split(sp)[1]
+                strain = header_new.split("18S")[0].split(sp)[1]
             elif "small subunit" in header:
-                strain = header.split("small subunit")[0].split(sp)[1]
-        if "internal transcribed" in header or "ITS region" in header:
+                strain = header_new.split("small subunit")[0].split(sp)[1]
+            elif "genes for" in header:
+                strain = header.split("genes")[0].split(sp)[1]
+        if "internal transcribed" in header or "ITS" in header:
             buf_its = F"{buf_its}{header}{seq_dict[header]}"
             if "18S" in header:
                 if first == "18S":
@@ -94,6 +99,8 @@ for header in seq_dict:
                     strain = ""
                 else:
                     strain = header.split("small")[0].split(sp)[1]
+            elif "genes for" in header:
+                strain = header.split("genes")[0].split(sp)[1]
             else:
                 if first == "internal" or first == "ITS":
                     strain = ""
@@ -104,36 +111,39 @@ for header in seq_dict:
                         strain = header.split("internal")[0].split(sp)[1]
         if "large subunit ribosomal" in header or "26S" in header or "28S" in header:
             buf_lsu = F"{buf_lsu}{header}{seq_dict[header]}"
+            header_new = header.replace("genes for ", "").replace("genomic DNA containing ", "")
             if "18S" in header:
                 if first == "18S":
                     strain = ""
                 else:
-                    strain = header.split("18S")[0].split(sp)[1]
+                    strain = header_new.split("18S")[0].split(sp)[1]
             elif "small subunit" in header:
                 if first == "small":
                     strain = ""
                 else:
-                    strain = header.split("small")[0].split(sp)[1]
+                    strain = header_new.split("small")[0].split(sp)[1]
+            elif "genes for" in header:
+                strain = header.split("genes")[0].split(sp)[1]
             elif "internal" in header:
                 if first == "internal":
                     strain = ""
                 else:
-                    strain = header.split("internal")[0].split(sp)[1]
+                    strain = header_new.split("internal")[0].split(sp)[1]
             elif "26S" in header:
                 if first == "26S":
                     strain = ""
                 else:
-                    strain = header.split("26S")[0].split(sp)[1]
+                    strain = header_new.split("26S")[0].split(sp)[1]
             elif "28S" in header:
                 if first == "28S":
                     strain = ""
                 else:
-                    strain = header.split("28S")[0].split(sp)[1]
+                    strain = header_new.split("28S")[0].split(sp)[1]
             elif "large subunit" in header:
                 if first == "large":
                     strain = ""
                 else:
-                    strain = header.split("large subunit")[0].split(sp)[1]
+                    strain = header_new.split("large subunit")[0].split(sp)[1]
         if "RNA polymerase II largest" in header:
             buf_rpb1 = F"{buf_rpb1}{header}{seq_dict[header]}"
             if first == "RNA":

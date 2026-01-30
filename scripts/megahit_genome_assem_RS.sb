@@ -1,0 +1,28 @@
+#!/bin/bash --login
+########## Define Resources Needed with SBATCH Lines ##########
+
+#SBATCH --time=00:30:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --ntasks=1                 # number of tasks - how many tasks (nodes) that you require (same as -n)
+#SBATCH --cpus-per-task=8          # number of CPUs (or cores) per task (same as -c)
+#SBATCH --mem=8G                   # memory required per node - amount of memory (in bytes)
+##SBATCH --array=1-78
+#SBATCH --partition=scavenger
+#SBATCH --job-name=megahit_assem_1        # you can give your job a name for easier identification (same as -J)
+#SBATCH --output=%x-%j.SLURMout
+
+########## Command Lines to Run ##########
+
+
+cd ~/Yeast_genomes/scripts/
+DATADIR=/work/jal138/genomes/RS_NRRLY17275/
+NAME=RS_NRRLY17275
+mkdir -p $DATADIR/assembly/
+
+ACC=JL_RS_type_S311
+
+megahit -1 $DATADIR/raw_data/"$ACC"_R1_001.fastq.gz \
+  -2 $DATADIR/raw_data/"$ACC"_R2_001.fastq.gz \
+  -o $DATADIR/assembly/$NAME \
+  -m 8000000000 -t $SLURM_CPUS_PER_TASK
+
+scontrol show job $SLURM_JOB_ID

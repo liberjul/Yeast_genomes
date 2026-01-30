@@ -1,0 +1,20 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+contig_24_polypolish -          class.yeast_seqs.5_8S.dedup_types_no_miss -                1     158    2568    2411    2568    2411  670409    -     1.9e-56  193.5   1.8  -
+contig_24_polypolish -          class.yeast_seqs.5_8S.dedup_types_no_miss -                1     158   12926   12769   12926   12769  670409    -     1.9e-56  193.5   1.8  -
+contig_7_polypolish  -          class.yeast_seqs.5_8S.dedup_types_no_miss -               62     117  802727  802660  802735  802640 1168204    -         0.9   12.4   0.2  -
+contig_7_polypolish  -          class.yeast_seqs.5_8S.dedup_types_no_miss -               65     124  410607  410659  410587  410679 1168204    +         1.1   12.1   1.7  -
+contig_4_polypolish  -          class.yeast_seqs.5_8S.dedup_types_no_miss -               97     152  768514  768574  768495  768581 1362461    +         1.4   11.8   0.7  -
+contig_1_polypolish  -          class.yeast_seqs.5_8S.dedup_types_no_miss -               24      56   56906   56938   56886   56944 1149820    +         1.9   11.4   0.7  -
+contig_14_polypolish -          class.yeast_seqs.5_8S.dedup_types_no_miss -               83     142   48868   48923   48858   48926  856765    +         3.9   10.4   1.1  -
+contig_29_polypolish -          class.yeast_seqs.5_8S.dedup_types_no_miss -               85     113   53181   53209   53175   53229   97096    +         4.7   10.1   0.8  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/5_8S.hmm
+# Target file:     ../data/assembly/NB124-2/scaffolds_polished.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_NB124-2/5_8S_hmm.out --dna --cpu 24 ../data/phylo/hmms/5_8S.hmm ../data/assembly/NB124-2/scaffolds_polished.fasta 
+# Current dir:     /mnt/c/Users/jal138/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Jan 30 09:19:12 2024
+# [ok]

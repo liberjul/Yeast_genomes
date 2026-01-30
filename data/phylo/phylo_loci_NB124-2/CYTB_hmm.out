@@ -1,0 +1,14 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+contig_30_polypolish -          class.yeast_seqs.CYTB.dedup_types_no_miss -                1     432    7093    6661    7093    6659   48816    -    7.8e-139  465.1  18.0  -
+contig_15_polypolish -          class.yeast_seqs.CYTB.dedup_types_no_miss -              122     190  446726  446797  446713  446812 1233669    +        0.21   12.0   1.9  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/CYTB.hmm
+# Target file:     ../data/assembly/NB124-2/scaffolds_polished.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_NB124-2/CYTB_hmm.out --dna --cpu 24 ../data/phylo/hmms/CYTB.hmm ../data/assembly/NB124-2/scaffolds_polished.fasta 
+# Current dir:     /mnt/c/Users/jal138/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Jan 30 09:19:07 2024
+# [ok]

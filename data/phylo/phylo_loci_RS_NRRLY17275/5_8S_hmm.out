@@ -1,0 +1,22 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+k141_528             -          class.yeast_seqs.5_8S.dedup_types_no_miss -                1     158    6388    6232    6388    6232   10552    -     4.4e-49  169.2   3.0  flag=0 multi=3962.0000 len=10552
+k141_190             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               81     129   78489   78531   78469   78551   90326    +         1.8   11.1   0.6  flag=1 multi=81.0000 len=90326
+k141_333             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               90     150   32788   32859   32767   32867   42140    +         1.9   11.0   2.4  flag=0 multi=79.9172 len=42140
+k141_65              -          class.yeast_seqs.5_8S.dedup_types_no_miss -               68     103   67241   67282   67229   67303  131562    +         2.5   10.6   1.7  flag=1 multi=85.7234 len=131562
+k141_295             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               38     148    3340    3249    3351    3240   89782    -         3.4   10.2   2.3  flag=0 multi=81.8128 len=89782
+k141_563             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               30     107   36544   36634   36524   36643  371574    +         4.4    9.8   3.2  flag=1 multi=84.9950 len=371574
+k141_340             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               61     102   12361   12402   12346   12421   41297    +         5.8    9.4   1.9  flag=1 multi=80.9572 len=41297
+k141_272             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               73      97   26189   26213   26169   26243  112438    +         6.1    9.3   1.9  flag=1 multi=83.8960 len=112438
+k141_378             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               23      57   19756   19722   19774   19700   27984    -         7.2    9.1   1.2  flag=1 multi=80.6638 len=27984
+k141_507             -          class.yeast_seqs.5_8S.dedup_types_no_miss -               12      60  170278  170233  170287  170190  316875    -         8.9    8.8   0.2  flag=1 multi=80.0390 len=316875
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/5_8S.hmm
+# Target file:     ../data/assembly/RS_NRRLY17275.fna
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_RS_NRRLY17275/5_8S_hmm.out --cpu 4 ../data/phylo/hmms/5_8S.hmm ../data/assembly/RS_NRRLY17275.fna 
+# Current dir:     /mnt/c/Users/jal138/Duke Bio_Ea Dropbox/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Oct 21 12:21:13 2025
+# [ok]

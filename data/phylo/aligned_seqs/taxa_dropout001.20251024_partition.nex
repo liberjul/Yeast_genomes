@@ -1,0 +1,18 @@
+#nexus
+begin sets;
+	charset part1 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.5_8S_plus_new.excl.ready.nex: 1-166;
+	charset part2 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.CYTB_plus_new.excl.ready.nex: 1-382\3 666-714\3;
+	charset part3 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.CYTB_plus_new.excl.ready.nex: 2-383\3 667-715\3;
+	charset part4 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.CYTB_plus_new.excl.ready.nex: 3-381\3 665-716\3;
+	charset part5 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.LSU_plus_new.excl.ready.nex: 1-911;
+	charset part6 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.RPB1_plus_new.excl.ready.nex: 1-55\3 154-343\3 376-469\3 622-664\3 728-1004\3 1093-1120\3;
+	charset part7 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.RPB1_plus_new.excl.ready.nex: 2-53\3 152-344\3 377-470\3 623-662\3 726-1005\3 1094-1121\3;
+	charset part8 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.RPB1_plus_new.excl.ready.nex: 3-54\3 153-345\3 378-471\3 624-663\3 727-1006\3 1095-1122\3;
+	charset part10 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.RPB2_plus_new.excl.ready.nex: 1-115\3 234-897\3 903-918\3 954-1086\3 1122-1143\3 1167-1245\3 1482-1566\3;
+	charset part11 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.RPB2_plus_new.excl.ready.nex: 2-116\3 235-898\3 904-919\3 955-1087\3 1123-1144\3 1168-1246\3 1483-1567\3;
+	charset part12 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.RPB2_plus_new.excl.ready.nex: 3-117\3 236-899\3 905-920\3 956-1088\3 1124-1142\3 1169-1247\3 1484-1568\3;
+	charset part14 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.SSU_plus_new.excl.ready.nex: 1-1867;
+	charset part15 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.TEF1_plus_new.excl.ready.nex: 1-97\3 189-237\3 346-517\3 579-693\3 767-917\3 1013-1190\3 1261-1414\3 1489-1501\3 1574-1592\3 1615-1621\3 1718-1835\3 1918-1939\3 2016-2049\3;
+	charset part16 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.TEF1_plus_new.excl.ready.nex: 2-98\3 190-235\3 344-515\3 577-694\3 768-915\3 1011-1191\3 1262-1415\3 1490-1502\3 1575-1593\3 1616 1619 1716-1833\3 1916-1940\3 2017-2050\3;
+	charset part17 = ../data/phylo/aligned_seqs/taxa_dropout001.20250904_class.yeast_seqs.TEF1_plus_new.excl.ready.nex: 3-99\3 191-236\3 345-516\3 578-695\3 769-916\3 1012-1192\3 1263-1416\3 1491-1503\3 1576-1591\3 1614-1620\3 1717-1834\3 1917-1941\3 2018-2051\3;
+end;

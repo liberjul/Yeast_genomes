@@ -8,7 +8,7 @@ do
   ITSx -i $DATADIR/"$PREFIX".lsu.fasta -o $DATADIR/"$PREFIX".itsx -t fungi --save_regions LSU
   for i in SSU ITS1 5_8S ITS2 LSU
   do
-    cat $DATADIR/"$PREFIX".itsx.$i.fasta >> $DATADIR/"$PREFIX".yeast_seqs.$i.fasta
+    cat $DATADIR/"$PREFIX".itsx.$i.fasta > $DATADIR/"$PREFIX".yeast_seqs.$i.fasta
   done
   cp $DATADIR/"$PREFIX".rpb1.fasta $DATADIR/"$PREFIX".yeast_seqs.RPB1.fasta
   cp $DATADIR/"$PREFIX".rpb2.fasta $DATADIR/"$PREFIX".yeast_seqs.RPB2.fasta

@@ -1,0 +1,23 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+contig_3_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -               96    1147 1550774 1551894 1550750 1551895 1859038    +           0 1185.3  28.2  -
+contig_3_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -              828    1147 1547409 1547024 1547418 1547023 1859038    -     3.5e-85  287.1   7.0  -
+contig_11_polypolish -          class.yeast_seqs.TEF1.dedup_types_no_miss -               16     452  243447  243002  243462  242985  550682    -     1.7e-39  135.8   9.8  -
+contig_15_polypolish -          class.yeast_seqs.TEF1.dedup_types_no_miss -               32     328  880328  880623  880305  880644 1233669    +     1.1e-20   73.5   1.4  -
+contig_5_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -               43     320  661740  661996  661717  662029 1624477    +     2.2e-11   42.6  11.9  -
+contig_3_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -                2     101 1550606 1550705 1550605 1550725 1859038    +       2e-10   39.5   0.9  -
+contig_11_polypolish -          class.yeast_seqs.TEF1.dedup_types_no_miss -              966    1144  242311  242145  242333  242142  550682    -     1.1e-08   33.8   0.9  -
+contig_5_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -              545     767  662179  662466  662159  662487 1624477    +      0.0013   16.9   3.7  -
+contig_9_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -              286     375 1066281 1066192 1066302 1066172 1313383    -       0.088   10.9   0.4  -
+contig_1_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -              840     948  971819  971912  971799  971934 1149820    +        0.38    8.7   1.5  -
+contig_9_polypolish  -          class.yeast_seqs.TEF1.dedup_types_no_miss -              130     308  209162  209001  209184  208981 1313383    -        0.66    8.0   3.4  -
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/TEF1.hmm
+# Target file:     ../data/assembly/NB124-2/scaffolds_polished.fasta
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_NB124-2/TEF1_hmm.out --dna --cpu 24 ../data/phylo/hmms/TEF1.hmm ../data/assembly/NB124-2/scaffolds_polished.fasta 
+# Current dir:     /mnt/c/Users/jal138/Dropbox (Duke Bio_Ea)/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Jan 30 09:19:05 2024
+# [ok]

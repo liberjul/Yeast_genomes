@@ -10,7 +10,10 @@ args = parser.parse_args()
 
 if ">" in args.record:
     args.record = args.record.strip(">")
+if '"' in args.record:
+    args.record = args.record.strip('"')
 
+print(F"{args.record}, {args.start}, {args.stop}")
 hit_dict={args.record : [args.start, args.stop]}
 
 buffer = ""

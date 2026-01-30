@@ -1,0 +1,22 @@
+#!/bin/bash --login
+########## Define Resources Needed with SBATCH Lines ##########
+
+#SBATCH --time=00:10:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --ntasks=1                 # number of tasks - how many tasks (nodes) that you require (same as -n)
+#SBATCH --cpus-per-task=16          # number of CPUs (or cores) per task (same as -c)
+#SBATCH --mem=1G                   # memory required per node - amount of memory (in bytes)
+##SBATCH --array=1 #Comment out for second run
+##SBATCH --array=2-3075 # This is after you have validated first run
+#SBATCH --job-name=run_wastral_buscos       # you can give your job a name for easier identification (same as -J)
+#SBATCH --output=%x-%j.SLURMout
+##SBATCH --partition=scavenger
+
+########## Command Lines to Run ##########
+
+conda activate busco
+
+mkdir -p  /work/jal138/phylo/astral
+
+wastral -t $SLURM_CPUS_PER_TASK  -o /work/jal138/phylo/astral/astral.out  /work/jal138/phylo/gene_trees.tre
+
+scontrol show job $SLURM_JOB_ID     ### write job information to output file

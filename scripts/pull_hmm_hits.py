@@ -3,6 +3,7 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("-f", "--fasta", type=str, help="input FASTA")
 parser.add_argument("-m", "--hmm", type=str, help="input hmm hit table, from nhmmer")
+parser.add_argument("-e", "--evalue", type=float, help="evalue threshold")
 parser.add_argument("-o", "--output", type=str, help="output files path and prefix")
 parser.add_argument("-t", "--top_hit_only", action="store_true", help="output top hit only")
 parser.add_argument("-s", "--extra_start", type=int, default=0, help="extra characters to add before hit")
@@ -20,10 +21,10 @@ with open(args.hmm, "r") as ifile:
         # count += 1
         spl = line.strip().split(" ")
         spl = [x for x  in spl if x != ""]
-        header, start, stop, e = spl[0], spl[6], spl[7], spl[12]
+        header, start, stop, e = spl[0], int(spl[6]), int(spl[7]), float(spl[12])
         # print([header, start, stop, e])
-        if float(e) < min_e:
-            min_e = float(e)
+        if e < min_e:
+            min_e = e
         if header in hit_dict:
             hit_dict[header].append([start, stop, e])
         else:
@@ -31,12 +32,13 @@ with open(args.hmm, "r") as ifile:
         line = ifile.readline()
 buffer = ""
 newline = ""
+print(hit_dict)
 
 with open(args.fasta, "r") as ifile:
     line = ifile.readline()
     while line != "":
-        if line.strip()[1:] in hit_dict:
-            header = line.strip()[1:]
+        if line.strip()[1:].split(" ")[0] in hit_dict:
+            header = line.strip()[1:].split(" ")[0]
             seq = ""
             line = ifile.readline()
             while line != "" and line[0] != ">":
@@ -45,25 +47,25 @@ with open(args.fasta, "r") as ifile:
             for i in hit_dict[header]:
                 start, stop, e = i
                 if args.top_hit_only:
-                    if float(e) <= min_e:
+                    if (e <= min_e) and (e <= args.evalue):
                         print(header, " Length: ", len(seq))
-                        if int(start) > int(stop):
+                        if start > stop:
                             stop_new = start
-                            start = max([stop - args.extra_start, 1)
-                            stop = min([stop_new + args.extra_stop, len(seq)]
+                            start = max([stop - args.extra_start, 1])
+                            stop = min([stop_new + args.extra_stop, len(seq)])
                         else:
-                            start = max([start - args.extra_start, 1)
-                            stop = min([stop + args.extra_stop, len(seq)]
+                            start = max([start - args.extra_start, 1])
+                            stop = min([stop + args.extra_stop, len(seq)])
                         buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
                 else:
                     print(header, " Length: ", len(seq))
-                    if int(start) > int(stop):
+                    if start > stop:
                         stop_new = start
-                        start = max([stop - args.extra_start, 1)
-                        stop = min([stop_new + args.extra_stop, len(seq)]
+                        start = max([stop - args.extra_start, 1])
+                        stop = min([stop_new + args.extra_stop, len(seq)])
                     else:
-                        start = max([start - args.extra_start, 1)
-                        stop = min([stop + args.extra_stop, len(seq)]
+                        start = max([start - args.extra_start, 1])
+                        stop = min([stop + args.extra_stop, len(seq)])
                     buffer = F"{buffer}>{header}_[{start}..{stop}]_e={e}\n{seq[int(start)-1:int(stop)]}\n"
         else:
             line = ifile.readline()

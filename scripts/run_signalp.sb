@@ -1,0 +1,28 @@
+#!/bin/bash --login
+########## Define Resources Needed with SBATCH Lines ##########
+
+#SBATCH --time=06:00:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --ntasks=1                 # number of tasks - how many tasks (nodes) that you require (same as -n)
+#SBATCH --cpus-per-task=8          # number of CPUs (or cores) per task (same as -c)
+#SBATCH --mem=32G                   # memory required per node - amount of memory (in bytes)
+#SBATCH --job-name=signalp        # you can give your job a name for easier identification (same as -J)
+#SBATCH --output=%x-%j.SLURMout
+##SBATCH --partition=scavenger
+
+########## Command Lines to Run ##########
+
+
+DATADIR=~/Yeast_genomes/data/annotation
+ 
+for genome in JL201 JL221 NB124-2
+do
+  biolib run DTU/SignalP-6 \
+    --fastafile $DATADIR/$genome/*.faa \
+    --output_dir $DATADIR/$genome/signalp \
+    --format txt \
+    --organism euk \
+    --mode fast \
+    --write_procs 8
+done
+
+scontrol show job $SLURM_JOB_ID     ### write job information to output file

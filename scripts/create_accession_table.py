@@ -133,7 +133,7 @@ df.to_csv(args.output + "loci_accessions.txt", sep = "\t")
 with open(args.output + "refseq_accessions.txt", "w") as ofile:
     ofile.write("\n".join(list(unique_refseq_accs)))
 
-print(no_strain_accs.strip(","))
+print("Accessions without strains: ", no_strain_accs.strip(","))
 # missing_ssu_or_lsu = ""
 # for i in table_dict:
 #     if ("ITS1" in table_dict[i] and "5_8S" in table_dict[i] and "ITS2" in table_dict[i]) and ("SSU" not in table_dict[i] or "LSU" not in table_dict[i]):

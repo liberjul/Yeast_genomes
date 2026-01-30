@@ -1,0 +1,15 @@
+# target name        accession  query name                                accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ----------                      -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+k141_490             -          class.yeast_seqs.RPB1.dedup_types_no_miss -                2     697   16928   16229   16929   16228   70587    -    1.3e-128  430.9  25.9  flag=0 multi=79.8497 len=70587
+k141_421             -          class.yeast_seqs.RPB1.dedup_types_no_miss -                3      46   67166   67209   67164   67229  144225    +      0.0062   15.4   1.0  flag=0 multi=74.3813 len=144225
+k141_526             -          class.yeast_seqs.RPB1.dedup_types_no_miss -              111     214  158892  158791  158897  158771  397456    -         0.7    8.6   1.4  flag=1 multi=82.5806 len=397456
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ../data/phylo/hmms/RPB1.hmm
+# Target file:     ../data/assembly/RS_NRRLY17275.fna
+# Option settings: nhmmer --tblout ../data/phylo/phylo_loci_RS_NRRLY17275/RPB1_hmm.out --cpu 4 ../data/phylo/hmms/RPB1.hmm ../data/assembly/RS_NRRLY17275.fna 
+# Current dir:     /mnt/c/Users/jal138/Duke Bio_Ea Dropbox/He Lab/Julian_Liber/Yeast_genomes/scripts
+# Date:            Tue Oct 21 12:20:59 2025
+# [ok]

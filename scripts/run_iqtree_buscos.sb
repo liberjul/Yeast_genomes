@@ -1,0 +1,28 @@
+#!/bin/bash --login
+########## Define Resources Needed with SBATCH Lines ##########
+
+#SBATCH --time=01:00:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --ntasks=1                 # number of tasks - how many tasks (nodes) that you require (same as -n)
+#SBATCH --cpus-per-task=4          # number of CPUs (or cores) per task (same as -c)
+#SBATCH --mem=4G                   # memory required per node - amount of memory (in bytes)
+##SBATCH --array=1 #Comment out for second run
+#SBATCH --array=2-3075 # This is after you have validated first run
+#SBATCH --job-name=run_mafft_buscos       # you can give your job a name for easier identification (same as -J)
+#SBATCH --output=/work/jal138/phylo/busco_jobs/%x-%j.SLURMout
+#SBATCH --partition=scavenger
+
+########## Command Lines to Run ##########
+
+module load IQ-TREE/1.6.12-MPI
+
+INDIR=/work/jal138/phylo/busco_out/aligned_seqs
+OUTDIR=/work/jal138/phylo/gene_trees
+CONFIG=~/Yeast_genomes/scripts/array_config_buscos.txt
+mkdir -p $OUTDIR
+
+ACC=$(awk -v ArrayTaskID=$SLURM_ARRAY_TASK_ID '$1==ArrayTaskID {print $2}' $CONFIG)
+
+echo "iqtree -s $INDIR/${ACC%.fna}.mafft.fna  -alrt 1000 -bb 1000 -nt AUTO -pre $OUTDIR/${ACC%.fna}_iqtree"
+iqtree -s $INDIR/${ACC%.fna}.mafft.fna  -alrt 1000 -bb 1000 -nt AUTO -pre $OUTDIR/${ACC%.fna}_iqtree
+
+scontrol show job $SLURM_JOB_ID     ### write job information to output file

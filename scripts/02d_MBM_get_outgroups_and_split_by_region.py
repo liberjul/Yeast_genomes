@@ -4,7 +4,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-n", "--new", action="store_true", help="process and print new sequences")
 args = parser.parse_args()
 data_dir = "../data/phylo/unaligned_seqs"
-outgroup_genera = set(["Pseudobensingtonia","Bensingtonia", "Pseudohyphozyma", "Ruinenia", "Crittendenia", "Pseudosterigmatospora", "Sterigmatospora", "Meniscomyces"])
+outgroup_genera = set(["Pseudobensingtonia","Bensingtonia", "Pseudohyphozyma", "Ruinenia", "Crittendenia", "Pseudosterigmatospora", "Sterigmatospora", "Meniscomyces", "Mixia"])
 
 fastas = glob.glob(F"{data_dir}/yeast_seqs.*.fasta")
 if args.new and len(fastas) == 0:
@@ -72,11 +72,14 @@ for header in seq_dict:
     if gen in outgroup_genera:
         if "small subunit ribosomal" in header or "18S" in header:
             buf_ssu = F"{buf_ssu}{header}{seq_dict[header]}"
+            header_new = header.replace("genes for ", "").replace("genomic DNA containing ", "")
             if "18S" in header:
-                strain = header.split("18S")[0].split(sp)[1]
+                strain = header_new.split("18S")[0].split(sp)[1]
             elif "small subunit" in header:
-                strain = header.split("small subunit")[0].split(sp)[1]
-        if "internal transcribed" in header:
+                strain = header_new.split("small subunit")[0].split(sp)[1]
+            elif "genes for" in header:
+                strain = header.split("genes")[0].split(sp)[1]
+        if "internal transcribed" in header or "ITS" in header:
             buf_its = F"{buf_its}{header}{seq_dict[header]}"
             if "18S" in header:
                 if first == "18S":
@@ -88,43 +91,51 @@ for header in seq_dict:
                     strain = ""
                 else:
                     strain = header.split("small")[0].split(sp)[1]
+            elif "genes for" in header:
+                strain = header.split("genes")[0].split(sp)[1]
             else:
-                if first == "internal":
+                if first == "internal" or first == "ITS":
                     strain = ""
                 else:
-                    strain = header.split("internal")[0].split(sp)[1]
+                    if "ITS" in header:
+                        strain = header.split("ITS")[0].split(sp)[1]
+                    else:
+                        strain = header.split("internal")[0].split(sp)[1]
         if "large subunit ribosomal" in header or "26S" in header or "28S" in header:
             buf_lsu = F"{buf_lsu}{header}{seq_dict[header]}"
+            header_new = header.replace("genes for ", "").replace("genomic DNA containing ", "")
             if "18S" in header:
                 if first == "18S":
                     strain = ""
                 else:
-                    strain = header.split("18S")[0].split(sp)[1]
+                    strain = header_new.split("18S")[0].split(sp)[1]
             elif "small subunit" in header:
                 if first == "small":
                     strain = ""
                 else:
-                    strain = header.split("small")[0].split(sp)[1]
+                    strain = header_new.split("small")[0].split(sp)[1]
+            elif "genes for" in header:
+                strain = header.split("genes")[0].split(sp)[1]
             elif "internal" in header:
                 if first == "internal":
                     strain = ""
                 else:
-                    strain = header.split("internal")[0].split(sp)[1]
+                    strain = header_new.split("internal")[0].split(sp)[1]
             elif "26S" in header:
                 if first == "26S":
                     strain = ""
                 else:
-                    strain = header.split("26S")[0].split(sp)[1]
+                    strain = header_new.split("26S")[0].split(sp)[1]
             elif "28S" in header:
                 if first == "28S":
                     strain = ""
                 else:
-                    strain = header.split("28S")[0].split(sp)[1]
+                    strain = header_new.split("28S")[0].split(sp)[1]
             elif "large subunit" in header:
                 if first == "large":
                     strain = ""
                 else:
-                    strain = header.split("large subunit")[0].split(sp)[1]
+                    strain = header_new.split("large subunit")[0].split(sp)[1]
         if "RNA polymerase II largest" in header:
             buf_rpb1 = F"{buf_rpb1}{header}{seq_dict[header]}"
             if first == "RNA":

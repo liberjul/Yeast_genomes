@@ -4,9 +4,10 @@ DATADIR=../data/phylo
 # conda activate aaftf
 
 mkdir -p $DATADIR/hmms/
-for i in RPB1 RPB2 TEF1 CYTB
+for i in RPB1 RPB2 TEF1 CYTB 5_8S SSU LSU
 do
-  hmmbuild $DATADIR/hmms/$i.hmm $DATADIR/aligned_seqs/yeast_seqs.$i.mafft.fasta
+  echo $i
+  hmmbuild $DATADIR/hmms/$i.hmm $DATADIR/aligned_seqs/class.yeast_seqs.$i.dedup_types_no_miss.fasta
 done
 
 # conda deactivate

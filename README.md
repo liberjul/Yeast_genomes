@@ -1,6 +1,7 @@
 # Yeast_genomes
 
-### This repo is scripts and data for the assembly of novel Microbotryomycete yeasts JL201 and JL221.
+### This repo is scripts and data for the assembly of novel Microbotryomycete yeasts JL201, JL221, and NB124-2.
+JL201 and JL221 were initially sequenced with Illumina, then were subsequently sequenced with ONT. NB124-2 was the reverse. The final genomes for JL201 and JL221 were assembled with Flye from long-read ONT data, then polished with Racon. NB124-2 was sequenced and assembled by Plasmidsaurus, which included Flye assembly and polishing with Polypolish.
 
 #### The processing pipeline involves the following steps:
 
